@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+html
+{
+    font-family: 'Open Sans', sans-serif;
+    color: #848484;
+    width: 1920px;
+}
+
+body 
+{
+    width: 960px;
+    margin: 100px auto;    
+}
+
+header {
+    background-image: url('../images/quotes.png');
+    background-repeat: no-repeat;
+    background-position: 390px 50px;
+}
+
+.header__photo 
+{
+    float: left;
+}
+
+.header__epigraf 
+{
+    padding: 120px 0 0 450px;
+}
+
+.header__citation 
+{
+    font-family: Georgia;
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: 400;
+    font-style: italic;
+    margin: 0 0 -16px 0;
+}
+
+.header__signa 
+{
+    font-size: 16px;
+    line-height: 42px;
+    font-weight: 600;
+    color: #333333;
+    letter-spacing: .3px;
+    padding: 0 0 0 2px;
+}
+.container 
+{
+    clear: both;
+    padding: 20px 0 0 0;
+}
+
+.sidebar 
+{    
+    float: left;
+}
+
+.sidebar__title 
+{
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+    color: #45c3aa;
+}
+
+.introduce 
+{
+    margin: 20px 0 0 390px;
+}
+
+.introduce__description,
+.introduce__hobbies__description,
+.marker-list,
+.number-list
+{
+    font-family: Georgia;
+    font-size: 19px;
+    line-height: 32px;
+    font-weight: 400;
+    color: #555555;
+}
+
+.marker-list 
+{
+    padding: 0 0 20px 9px;
+    margin: -7px 0 0 10px
+}
+
+.marker-list li,
+.number-list li 
+{
+    margin: 0 0 4px 0
+}
+
+.number-list 
+{
+    padding: 0 0 20px 9px;
+    margin: -5px 0 0 12px;
+}
+ 
+.introduce__title, 
+.introduce__hobbies__title  
+{
+    line-height: 42px;
+    color: #333333;
+}
+
+.introduce__title 
+{
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    margin: 10px 0 0 5px;
+}
+
+.introduce__title::after
+{
+    display: block;
+    content: '';
+    background-color: #45c3aa;
+    height: 6px;
+    width: 60px; 
+    margin: 30px 0 45px -5px;
+}
+
+.introduce__hobbies__title 
+{
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.write_me 
+{
+    font-family: Georgia;
+    font-size: 19px;
+    line-height: 32px;
+    font-weight: 400;
+    text-decoration: underline;
+    color: #15a98b;
+}
+
+.write_me::after 
+{
+    text-decoration: none;
+    content: ' \2192';
+}
