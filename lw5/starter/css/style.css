@@ -70,6 +70,7 @@ header {
 .introduce 
 {
     margin: 20px 0 0 390px;
+    width: 560px;
 }
 
 .introduce__description,
@@ -87,7 +88,7 @@ header {
 .marker-list 
 {
     padding: 0 0 20px 9px;
-    margin: -7px 0 0 10px
+    margin: -5px 0 0 12px;
 }
 
 .marker-list li,
@@ -99,9 +100,14 @@ header {
 .number-list 
 {
     padding: 0 0 20px 9px;
-    margin: -5px 0 0 12px;
+    margin: -6px 0 0 10px;
 }
  
+.introduce__hobbies__description
+{
+    margin: 0 0 41px 0;
+}
+    
 .introduce__title, 
 .introduce__hobbies__title  
 {
@@ -131,6 +137,7 @@ header {
 {
     font-size: 36px;
     font-weight: 400;
+    margin: 43px 0 15px -2px;
 }
 
 .write_me 
@@ -139,12 +146,12 @@ header {
     font-size: 19px;
     line-height: 32px;
     font-weight: 400;
-    text-decoration: underline;
-    color: #15a98b;
+    text-decoration: none;
+    color: #45c3aa;
+    border-bottom: 1px solid;
 }
 
-.write_me::after 
+.write_me__arrow
 {
-    text-decoration: none;
-    content: ' \2192';
+    border-bottom: 1px solid #fff; 
 }
