@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+/* @import url('https://fonts.googleapis.com/css2?family=Georgia'); */
+
 html
 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open sans', sans-serif;
     color: #848484;
     width: 1920px;
 }
@@ -25,7 +27,7 @@ header {
 
 .header__epigraf 
 {
-    padding: 120px 0 0 450px;
+    padding: 90px 0 0 450px;
 }
 
 .header__citation 
@@ -35,7 +37,7 @@ header {
     line-height: 42px;
     font-weight: 400;
     font-style: italic;
-    margin: 0 0 -16px 0;
+    margin: 30px 0 0px 0;
 }
 
 .header__signa 
@@ -45,11 +47,11 @@ header {
     font-weight: 600;
     color: #333333;
     letter-spacing: .3px;
+    margin: 0 0 0 0;
     padding: 0 0 0 2px;
 }
 .container 
 {
-    clear: both;
     padding: 20px 0 0 0;
 }
 
@@ -58,13 +60,14 @@ header {
     float: left;
 }
 
-.sidebar__title 
+.sidebar__title
 {
     font-size: 24px;
     line-height: 32px;
     font-weight: 600;
     letter-spacing: 0.6px;
-    color: #45c3aa;
+    color: #15a98c;
+    margin: 20px 0 14px 0;
 }
 
 .introduce 
@@ -75,8 +78,8 @@ header {
 
 .introduce__description,
 .introduce__hobbies__description,
-.marker-list,
-.number-list
+.sidebar__marker-list,
+.sidebar__number-list
 {
     font-family: Georgia;
     font-size: 19px;
@@ -85,22 +88,27 @@ header {
     color: #555555;
 }
 
-.marker-list 
+.introduce__description
 {
-    padding: 0 0 20px 9px;
-    margin: -5px 0 0 12px;
+    margin: 43px 0 43px 0;
 }
 
-.marker-list li,
-.number-list li 
+.sidebar__marker-list 
 {
-    margin: 0 0 4px 0
+    padding: 0px 0 20px 22px;
+    margin: 0 0 0 0px;
 }
 
-.number-list 
+.sidebar__marker-list li,
+.sidebar__number-list li 
+{
+    margin: 0 0 4px 0;
+}
+
+.sidebar__number-list 
 {
     padding: 0 0 20px 9px;
-    margin: -6px 0 0 10px;
+    margin: 0 0 0 10px;
 }
  
 .introduce__hobbies__description
@@ -120,7 +128,7 @@ header {
     font-size: 48px;
     font-weight: 700;
     letter-spacing: 1.5px;
-    margin: 10px 0 0 5px;
+    margin: 0 0 0 5px;
 }
 
 .introduce__title::after
@@ -129,15 +137,16 @@ header {
     content: '';
     background-color: #45c3aa;
     height: 6px;
-    width: 60px; 
-    margin: 30px 0 45px -5px;
+    width: 60px;
+    border-radius: 3px; 
+    margin: 31px 0 0 -9px;
 }
 
 .introduce__hobbies__title 
 {
     font-size: 36px;
     font-weight: 400;
-    margin: 43px 0 15px -2px;
+    margin: 0px 0px 14px 0px;
 }
 
 .write_me 
@@ -154,4 +163,9 @@ header {
 .write_me__arrow
 {
     border-bottom: 1px solid #fff; 
+}
+
+.clear
+{
+    clear: both;
 }
