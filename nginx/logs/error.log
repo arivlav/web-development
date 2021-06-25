@@ -1,0 +1,1447 @@
+2021/05/23 12:54:28 [emerg] 11832#8372: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:23:12 [emerg] 8544#4380: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:23:14 [emerg] 3484#4484: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:26:52 [emerg] 12788#9004: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:27:46 [emerg] 12620#6324: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:27:49 [emerg] 3204#8972: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:28:59 [emerg] 2520#13624: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:35:56 [emerg] 10420#9172: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:41:08 [emerg] 6360#8308: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:44:06 [emerg] 7728#12612: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:44:29 [emerg] 8048#8400: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:44:43 [emerg] 8740#15204: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:44:48 [emerg] 12708#10980: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 13:47:23 [emerg] 14648#9184: CreateFile() "D:\IPS\web-разработка\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2021/05/23 15:39:02 [emerg] 17432#18276: unknown log format "main" in D:\IPS\web-develop\nginx/conf/nginx.conf:40
+2021/05/23 15:40:16 [emerg] 17264#17272: "fastcgi_pass" directive is duplicate in D:\IPS\web-develop\nginx/conf/fastcgi_params:3
+2021/05/23 15:41:20 [notice] 17616#12516: using the "select" event method
+2021/05/23 15:41:20 [notice] 17616#12516: nginx/1.19.10
+2021/05/23 15:41:20 [info] 17616#12516: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:41:20 [notice] 17616#12516: start worker processes
+2021/05/23 15:41:20 [notice] 17616#12516: start worker process 13368
+2021/05/23 15:41:21 [notice] 13368#11184: nginx/1.19.10
+2021/05/23 15:41:21 [info] 13368#11184: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:41:21 [notice] 13368#11184: create thread 5248
+2021/05/23 15:41:21 [notice] 13368#11184: create thread 5204
+2021/05/23 15:41:21 [notice] 13368#11184: create thread 15448
+2021/05/23 15:41:21 [notice] 17616#12516: start worker process 11188
+2021/05/23 15:41:21 [notice] 11188#9408: nginx/1.19.10
+2021/05/23 15:41:21 [info] 11188#9408: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:41:21 [notice] 11188#9408: create thread 15604
+2021/05/23 15:41:21 [notice] 11188#9408: create thread 2552
+2021/05/23 15:41:21 [notice] 11188#9408: create thread 9416
+2021/05/23 15:41:21 [notice] 17616#12516: start worker process 10920
+2021/05/23 15:41:21 [notice] 10920#18164: nginx/1.19.10
+2021/05/23 15:41:21 [info] 10920#18164: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:41:21 [notice] 10920#18164: create thread 9264
+2021/05/23 15:41:21 [notice] 10920#18164: create thread 9468
+2021/05/23 15:41:21 [notice] 10920#18164: create thread 10492
+2021/05/23 15:41:21 [notice] 17616#12516: start worker process 4032
+2021/05/23 15:41:21 [notice] 4032#6992: nginx/1.19.10
+2021/05/23 15:41:21 [info] 4032#6992: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:41:21 [notice] 4032#6992: create thread 2860
+2021/05/23 15:41:21 [notice] 4032#6992: create thread 14516
+2021/05/23 15:41:21 [notice] 4032#6992: create thread 1840
+2021/05/23 15:42:10 [crit] 13368#5248: *1 GetFileAttributesEx() "D:\IPS\web-develop
+ginx\html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/05/23 15:42:10 [crit] 13368#5248: *2 CreateFile() "D:\IPS\web-develop
+ginx\html/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/05/23 15:43:17 [notice] 17096#14312: using the "select" event method
+2021/05/23 15:43:17 [notice] 17096#14312: nginx/1.19.10
+2021/05/23 15:43:17 [info] 17096#14312: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:43:17 [notice] 17096#14312: start worker processes
+2021/05/23 15:43:17 [notice] 17096#14312: start worker process 14692
+2021/05/23 15:43:17 [notice] 14692#14828: nginx/1.19.10
+2021/05/23 15:43:17 [info] 14692#14828: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:43:17 [notice] 14692#14828: create thread 17312
+2021/05/23 15:43:17 [notice] 14692#14828: create thread 17336
+2021/05/23 15:43:17 [notice] 14692#14828: create thread 8776
+2021/05/23 15:43:17 [notice] 17096#14312: start worker process 268
+2021/05/23 15:43:17 [notice] 268#15960: nginx/1.19.10
+2021/05/23 15:43:17 [info] 268#15960: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:43:17 [notice] 268#15960: create thread 1040
+2021/05/23 15:43:17 [notice] 268#15960: create thread 8464
+2021/05/23 15:43:17 [notice] 268#15960: create thread 17024
+2021/05/23 15:43:17 [notice] 17096#14312: start worker process 17020
+2021/05/23 15:43:17 [notice] 17020#17232: nginx/1.19.10
+2021/05/23 15:43:17 [info] 17020#17232: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:43:17 [notice] 17020#17232: create thread 10408
+2021/05/23 15:43:17 [notice] 17020#17232: create thread 1448
+2021/05/23 15:43:17 [notice] 17020#17232: create thread 15396
+2021/05/23 15:43:17 [notice] 17096#14312: start worker process 4880
+2021/05/23 15:43:17 [notice] 4880#5328: nginx/1.19.10
+2021/05/23 15:43:17 [info] 4880#5328: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:43:17 [notice] 4880#5328: create thread 8900
+2021/05/23 15:43:17 [notice] 4880#5328: create thread 16952
+2021/05/23 15:43:17 [notice] 4880#5328: create thread 8168
+2021/05/23 15:43:21 [crit] 13368#5248: *3 GetFileAttributesEx() "D:\IPS\web-develop
+ginx\html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/05/23 15:43:23 [crit] 13368#5248: *4 GetFileAttributesEx() "D:\IPS\web-develop
+ginx\html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/05/23 15:43:26 [crit] 13368#5248: *5 GetFileAttributesEx() "D:\IPS\web-develop
+ginx\html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/05/23 15:43:48 [crit] 13368#5248: *7 GetFileAttributesEx() "D:\IPS\web-develop
+ginx\html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/05/23 15:43:51 [crit] 13368#5248: *8 GetFileAttributesEx() "D:\IPS\web-develop
+ginx\html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/05/23 15:43:51 [crit] 13368#5248: *9 GetFileAttributesEx() "D:\IPS\web-develop
+ginx\html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/05/23 15:44:28 [crit] 13368#5248: *10 GetFileAttributesEx() "D:\IPS\web-develop
+ginx\html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/05/23 15:44:37 [crit] 13368#5248: *11 GetFileAttributesEx() "D:\IPS\web-develop
+ginx\html" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/05/23 15:45:04 [notice] 17096#14312: worker process 4880 exited with code 1
+2021/05/23 15:45:04 [notice] 17096#14312: start worker process 15552
+2021/05/23 15:45:04 [notice] 15552#16924: nginx/1.19.10
+2021/05/23 15:45:04 [info] 15552#16924: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:45:04 [notice] 15552#16924: create thread 12996
+2021/05/23 15:45:04 [notice] 15552#16924: create thread 15200
+2021/05/23 15:45:04 [notice] 15552#16924: create thread 16136
+2021/05/23 15:45:06 [notice] 17096#14312: worker process 15552 exited with code 1
+2021/05/23 15:45:06 [notice] 17096#14312: start worker process 8896
+2021/05/23 15:45:07 [notice] 8896#12508: nginx/1.19.10
+2021/05/23 15:45:07 [info] 8896#12508: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:45:07 [notice] 8896#12508: create thread 17384
+2021/05/23 15:45:07 [notice] 8896#12508: create thread 9576
+2021/05/23 15:45:07 [notice] 8896#12508: create thread 8748
+2021/05/23 15:45:33 [notice] 17096#14312: worker process 8896 exited with code 1
+2021/05/23 15:45:33 [notice] 17096#14312: start worker process 11480
+2021/05/23 15:45:33 [notice] 11480#9588: nginx/1.19.10
+2021/05/23 15:45:33 [info] 11480#9588: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:45:33 [notice] 11480#9588: create thread 5916
+2021/05/23 15:45:33 [notice] 11480#9588: create thread 5508
+2021/05/23 15:45:33 [notice] 11480#9588: create thread 15660
+2021/05/23 15:45:35 [notice] 17096#14312: worker process 17020 exited with code 1
+2021/05/23 15:45:35 [notice] 17096#14312: start worker process 11020
+2021/05/23 15:45:35 [notice] 11020#18272: nginx/1.19.10
+2021/05/23 15:45:35 [info] 11020#18272: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:45:35 [notice] 11020#18272: create thread 7944
+2021/05/23 15:45:35 [notice] 11020#18272: create thread 7084
+2021/05/23 15:45:35 [notice] 11020#18272: create thread 4376
+2021/05/23 15:45:36 [notice] 17096#14312: worker process 268 exited with code 1
+2021/05/23 15:45:36 [notice] 17096#14312: start worker process 16180
+2021/05/23 15:45:36 [notice] 16180#1256: nginx/1.19.10
+2021/05/23 15:45:36 [info] 16180#1256: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:45:36 [notice] 16180#1256: create thread 1408
+2021/05/23 15:45:36 [notice] 16180#1256: create thread 17352
+2021/05/23 15:45:36 [notice] 16180#1256: create thread 17992
+2021/05/23 15:45:37 [notice] 17096#14312: worker process 14692 exited with code 1
+2021/05/23 15:45:37 [notice] 17096#14312: start worker process 14016
+2021/05/23 15:45:37 [notice] 14016#17388: nginx/1.19.10
+2021/05/23 15:45:37 [info] 14016#17388: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:45:37 [notice] 14016#17388: create thread 1576
+2021/05/23 15:45:37 [notice] 14016#17388: create thread 7584
+2021/05/23 15:45:37 [notice] 14016#17388: create thread 2072
+2021/05/23 15:49:45 [notice] 17228#8352: using the "select" event method
+2021/05/23 15:49:45 [notice] 17228#8352: nginx/1.19.10
+2021/05/23 15:49:45 [info] 17228#8352: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:49:45 [notice] 17228#8352: start worker processes
+2021/05/23 15:49:45 [notice] 17228#8352: start worker process 16592
+2021/05/23 15:49:45 [notice] 16592#17940: nginx/1.19.10
+2021/05/23 15:49:45 [info] 16592#17940: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:49:45 [notice] 16592#17940: create thread 4184
+2021/05/23 15:49:45 [notice] 16592#17940: create thread 624
+2021/05/23 15:49:45 [notice] 16592#17940: create thread 7776
+2021/05/23 15:49:45 [notice] 17228#8352: start worker process 16280
+2021/05/23 15:49:45 [notice] 16280#5820: nginx/1.19.10
+2021/05/23 15:49:45 [info] 16280#5820: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:49:45 [notice] 16280#5820: create thread 10872
+2021/05/23 15:49:45 [notice] 16280#5820: create thread 18092
+2021/05/23 15:49:45 [notice] 16280#5820: create thread 18056
+2021/05/23 15:49:45 [notice] 17228#8352: start worker process 12504
+2021/05/23 15:49:45 [notice] 12504#17832: nginx/1.19.10
+2021/05/23 15:49:45 [info] 12504#17832: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:49:45 [notice] 12504#17832: create thread 8392
+2021/05/23 15:49:45 [notice] 12504#17832: create thread 16472
+2021/05/23 15:49:45 [notice] 12504#17832: create thread 10424
+2021/05/23 15:49:45 [notice] 17228#8352: start worker process 16684
+2021/05/23 15:49:45 [notice] 16684#10612: nginx/1.19.10
+2021/05/23 15:49:45 [info] 16684#10612: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:49:45 [notice] 16684#10612: create thread 4480
+2021/05/23 15:49:45 [notice] 16684#10612: create thread 12260
+2021/05/23 15:49:45 [notice] 16684#10612: create thread 16212
+2021/05/23 15:49:54 [error] 16592#4184: *1 CreateFile() "D:\IPS\web-develop\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/05/23 15:54:31 [notice] 17228#8352: worker process 16684 exited with code 1
+2021/05/23 15:54:31 [notice] 17228#8352: start worker process 7852
+2021/05/23 15:54:31 [notice] 7852#4980: nginx/1.19.10
+2021/05/23 15:54:31 [info] 7852#4980: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:54:31 [notice] 7852#4980: create thread 8932
+2021/05/23 15:54:31 [notice] 7852#4980: create thread 1320
+2021/05/23 15:54:31 [notice] 7852#4980: create thread 2276
+2021/05/23 15:54:34 [notice] 17228#8352: worker process 7852 exited with code 1
+2021/05/23 15:54:34 [notice] 17228#8352: start worker process 7624
+2021/05/23 15:54:34 [notice] 7624#11336: nginx/1.19.10
+2021/05/23 15:54:34 [info] 7624#11336: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:54:34 [notice] 7624#11336: create thread 14240
+2021/05/23 15:54:34 [notice] 7624#11336: create thread 15072
+2021/05/23 15:54:34 [notice] 7624#11336: create thread 10744
+2021/05/23 15:54:39 [notice] 17228#8352: worker process 7624 exited with code 1
+2021/05/23 15:54:39 [notice] 17228#8352: start worker process 9424
+2021/05/23 15:54:39 [notice] 9424#1428: nginx/1.19.10
+2021/05/23 15:54:39 [info] 9424#1428: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:54:39 [notice] 9424#1428: create thread 6012
+2021/05/23 15:54:39 [notice] 9424#1428: create thread 11736
+2021/05/23 15:54:39 [notice] 9424#1428: create thread 16076
+2021/05/23 15:54:43 [notice] 17228#8352: worker process 9424 exited with code 1
+2021/05/23 15:54:43 [notice] 17228#8352: start worker process 7152
+2021/05/23 15:54:43 [notice] 7152#9220: nginx/1.19.10
+2021/05/23 15:54:43 [info] 7152#9220: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:54:43 [notice] 7152#9220: create thread 2376
+2021/05/23 15:54:43 [notice] 7152#9220: create thread 7072
+2021/05/23 15:54:43 [notice] 7152#9220: create thread 12048
+2021/05/23 15:54:44 [notice] 17228#8352: worker process 12504 exited with code 1
+2021/05/23 15:54:44 [notice] 17228#8352: start worker process 10688
+2021/05/23 15:54:44 [notice] 10688#5412: nginx/1.19.10
+2021/05/23 15:54:44 [info] 10688#5412: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:54:44 [notice] 10688#5412: create thread 4008
+2021/05/23 15:54:44 [notice] 10688#5412: create thread 4172
+2021/05/23 15:54:44 [notice] 10688#5412: create thread 15060
+2021/05/23 15:57:29 [notice] 17228#8352: worker process 10688 exited with code 1
+2021/05/23 15:57:29 [notice] 17228#8352: start worker process 16180
+2021/05/23 15:57:29 [notice] 16180#18232: nginx/1.19.10
+2021/05/23 15:57:29 [info] 16180#18232: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:57:29 [notice] 16180#18232: create thread 6820
+2021/05/23 15:57:29 [notice] 16180#18232: create thread 4304
+2021/05/23 15:57:29 [notice] 16180#18232: create thread 7308
+2021/05/23 15:57:36 [notice] 17228#8352: worker process 16180 exited with code 1
+2021/05/23 15:57:36 [notice] 17228#8352: start worker process 3840
+2021/05/23 15:57:36 [notice] 3840#16032: nginx/1.19.10
+2021/05/23 15:57:36 [info] 3840#16032: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:57:36 [notice] 3840#16032: create thread 10716
+2021/05/23 15:57:36 [notice] 3840#16032: create thread 8948
+2021/05/23 15:57:36 [notice] 3840#16032: create thread 8588
+2021/05/23 15:57:53 [notice] 17228#8352: worker process 3840 exited with code 1
+2021/05/23 15:57:53 [notice] 17228#8352: start worker process 2900
+2021/05/23 15:57:53 [notice] 2900#6132: nginx/1.19.10
+2021/05/23 15:57:53 [info] 2900#6132: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:57:53 [notice] 2900#6132: create thread 5816
+2021/05/23 15:57:53 [notice] 2900#6132: create thread 9288
+2021/05/23 15:57:53 [notice] 2900#6132: create thread 2576
+2021/05/23 15:57:57 [notice] 17228#8352: worker process 2900 exited with code 1
+2021/05/23 15:57:57 [notice] 17228#8352: start worker process 13472
+2021/05/23 15:57:58 [notice] 13472#17004: nginx/1.19.10
+2021/05/23 15:57:58 [info] 13472#17004: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:57:58 [notice] 13472#17004: create thread 16116
+2021/05/23 15:57:58 [notice] 13472#17004: create thread 16140
+2021/05/23 15:57:58 [notice] 13472#17004: create thread 2608
+2021/05/23 15:58:20 [notice] 17228#8352: worker process 13472 exited with code 1
+2021/05/23 15:58:20 [notice] 17228#8352: start worker process 18328
+2021/05/23 15:58:20 [notice] 18328#18324: nginx/1.19.10
+2021/05/23 15:58:20 [info] 18328#18324: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:58:20 [notice] 18328#18324: create thread 9064
+2021/05/23 15:58:20 [notice] 18328#18324: create thread 7544
+2021/05/23 15:58:20 [notice] 18328#18324: create thread 788
+2021/05/23 15:58:29 [notice] 17228#8352: worker process 18328 exited with code 1
+2021/05/23 15:58:29 [notice] 17228#8352: start worker process 17584
+2021/05/23 15:58:29 [notice] 17584#6516: nginx/1.19.10
+2021/05/23 15:58:29 [info] 17584#6516: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:58:29 [notice] 17584#6516: create thread 9800
+2021/05/23 15:58:29 [notice] 17584#6516: create thread 16428
+2021/05/23 15:58:29 [notice] 17584#6516: create thread 7556
+2021/05/23 15:59:14 [notice] 17228#8352: worker process 17584 exited with code 1
+2021/05/23 15:59:14 [notice] 17228#8352: start worker process 8528
+2021/05/23 15:59:14 [notice] 8528#15728: nginx/1.19.10
+2021/05/23 15:59:14 [info] 8528#15728: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:59:14 [notice] 8528#15728: create thread 15216
+2021/05/23 15:59:14 [notice] 8528#15728: create thread 2128
+2021/05/23 15:59:14 [notice] 8528#15728: create thread 7640
+2021/05/23 15:59:17 [notice] 17228#8352: worker process 16592 exited with code 1
+2021/05/23 15:59:17 [notice] 17228#8352: start worker process 15420
+2021/05/23 15:59:17 [notice] 15420#15460: nginx/1.19.10
+2021/05/23 15:59:17 [info] 15420#15460: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:59:17 [notice] 15420#15460: create thread 16232
+2021/05/23 15:59:17 [notice] 15420#15460: create thread 15828
+2021/05/23 15:59:17 [notice] 15420#15460: create thread 15236
+2021/05/23 15:59:22 [notice] 1288#6808: using the "select" event method
+2021/05/23 15:59:22 [notice] 1288#6808: nginx/1.19.10
+2021/05/23 15:59:22 [info] 1288#6808: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:59:22 [notice] 1288#6808: start worker processes
+2021/05/23 15:59:22 [notice] 1288#6808: start worker process 18344
+2021/05/23 15:59:22 [notice] 18344#9244: nginx/1.19.10
+2021/05/23 15:59:22 [info] 18344#9244: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:59:22 [notice] 18344#9244: create thread 16880
+2021/05/23 15:59:22 [notice] 18344#9244: create thread 556
+2021/05/23 15:59:22 [notice] 18344#9244: create thread 14572
+2021/05/23 15:59:22 [notice] 1288#6808: start worker process 1820
+2021/05/23 15:59:22 [notice] 1820#6288: nginx/1.19.10
+2021/05/23 15:59:22 [info] 1820#6288: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:59:22 [notice] 1820#6288: create thread 8216
+2021/05/23 15:59:22 [notice] 1820#6288: create thread 15372
+2021/05/23 15:59:22 [notice] 1820#6288: create thread 18000
+2021/05/23 15:59:22 [notice] 1288#6808: start worker process 12996
+2021/05/23 15:59:22 [notice] 12996#15200: nginx/1.19.10
+2021/05/23 15:59:22 [info] 12996#15200: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:59:22 [notice] 12996#15200: create thread 9344
+2021/05/23 15:59:22 [notice] 12996#15200: create thread 5628
+2021/05/23 15:59:22 [notice] 12996#15200: create thread 15552
+2021/05/23 15:59:22 [notice] 1288#6808: start worker process 14820
+2021/05/23 15:59:22 [notice] 14820#18152: nginx/1.19.10
+2021/05/23 15:59:22 [info] 14820#18152: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 15:59:22 [notice] 14820#18152: create thread 10760
+2021/05/23 15:59:22 [notice] 14820#18152: create thread 8912
+2021/05/23 15:59:22 [notice] 14820#18152: create thread 9144
+2021/05/23 15:59:34 [error] 16280#10872: *3 CreateFile() "D:\IPS\web-develop\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/23 16:00:13 [notice] 9584#13372: using the "select" event method
+2021/05/23 16:00:13 [notice] 9584#13372: nginx/1.19.10
+2021/05/23 16:00:13 [info] 9584#13372: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:13 [notice] 9584#13372: start worker processes
+2021/05/23 16:00:13 [notice] 9584#13372: start worker process 18352
+2021/05/23 16:00:14 [notice] 18352#404: nginx/1.19.10
+2021/05/23 16:00:14 [info] 18352#404: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:14 [notice] 18352#404: create thread 17200
+2021/05/23 16:00:14 [notice] 18352#404: create thread 6816
+2021/05/23 16:00:14 [notice] 18352#404: create thread 16556
+2021/05/23 16:00:14 [notice] 9584#13372: start worker process 10972
+2021/05/23 16:00:14 [notice] 10972#14648: nginx/1.19.10
+2021/05/23 16:00:14 [info] 10972#14648: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:14 [notice] 10972#14648: create thread 17336
+2021/05/23 16:00:14 [notice] 10972#14648: create thread 3180
+2021/05/23 16:00:14 [notice] 10972#14648: create thread 16256
+2021/05/23 16:00:14 [notice] 9584#13372: start worker process 12544
+2021/05/23 16:00:14 [notice] 12544#17848: nginx/1.19.10
+2021/05/23 16:00:14 [info] 12544#17848: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:14 [notice] 12544#17848: create thread 448
+2021/05/23 16:00:14 [notice] 12544#17848: create thread 10632
+2021/05/23 16:00:14 [notice] 12544#17848: create thread 17000
+2021/05/23 16:00:14 [notice] 9584#13372: start worker process 15436
+2021/05/23 16:00:14 [notice] 15436#8748: nginx/1.19.10
+2021/05/23 16:00:14 [info] 15436#8748: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:14 [notice] 15436#8748: create thread 14568
+2021/05/23 16:00:14 [notice] 15436#8748: create thread 17604
+2021/05/23 16:00:14 [notice] 15436#8748: create thread 8976
+2021/05/23 16:00:18 [error] 16280#10872: *3 CreateFile() "D:\IPS\web-develop\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/23 16:00:28 [notice] 9584#13372: worker process 15436 exited with code 1
+2021/05/23 16:00:28 [notice] 9584#13372: start worker process 6524
+2021/05/23 16:00:28 [notice] 6524#11340: nginx/1.19.10
+2021/05/23 16:00:28 [info] 6524#11340: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:28 [notice] 6524#11340: create thread 14444
+2021/05/23 16:00:28 [notice] 6524#11340: create thread 11904
+2021/05/23 16:00:28 [notice] 6524#11340: create thread 14712
+2021/05/23 16:00:31 [notice] 9584#13372: worker process 12544 exited with code 1
+2021/05/23 16:00:31 [notice] 9584#13372: start worker process 16348
+2021/05/23 16:00:31 [notice] 16348#15016: nginx/1.19.10
+2021/05/23 16:00:31 [info] 16348#15016: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:31 [notice] 16348#15016: create thread 17796
+2021/05/23 16:00:31 [notice] 16348#15016: create thread 15468
+2021/05/23 16:00:31 [notice] 16348#15016: create thread 304
+2021/05/23 16:00:51 [notice] 9584#13372: worker process 16348 exited with code 1
+2021/05/23 16:00:51 [notice] 9584#13372: start worker process 2720
+2021/05/23 16:00:51 [notice] 2720#18076: nginx/1.19.10
+2021/05/23 16:00:51 [info] 2720#18076: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:51 [notice] 2720#18076: create thread 8480
+2021/05/23 16:00:51 [notice] 2720#18076: create thread 17524
+2021/05/23 16:00:51 [notice] 2720#18076: create thread 15308
+2021/05/23 16:00:53 [notice] 9584#13372: worker process 2720 exited with code 1
+2021/05/23 16:00:53 [notice] 9584#13372: start worker process 4212
+2021/05/23 16:00:53 [notice] 4212#14348: nginx/1.19.10
+2021/05/23 16:00:53 [info] 4212#14348: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:53 [notice] 4212#14348: create thread 6720
+2021/05/23 16:00:53 [notice] 4212#14348: create thread 6324
+2021/05/23 16:00:53 [notice] 4212#14348: create thread 8308
+2021/05/23 16:00:55 [notice] 9584#13372: worker process 4212 exited with code 1
+2021/05/23 16:00:55 [notice] 9584#13372: start worker process 16524
+2021/05/23 16:00:55 [notice] 16524#14932: nginx/1.19.10
+2021/05/23 16:00:55 [info] 16524#14932: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:55 [notice] 16524#14932: create thread 8620
+2021/05/23 16:00:55 [notice] 16524#14932: create thread 12600
+2021/05/23 16:00:55 [notice] 16524#14932: create thread 12668
+2021/05/23 16:00:57 [notice] 9584#13372: worker process 6524 exited with code 1
+2021/05/23 16:00:57 [notice] 9584#13372: start worker process 16008
+2021/05/23 16:00:57 [notice] 16008#12624: nginx/1.19.10
+2021/05/23 16:00:57 [info] 16008#12624: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:57 [notice] 16008#12624: create thread 15272
+2021/05/23 16:00:57 [notice] 16008#12624: create thread 17740
+2021/05/23 16:00:57 [notice] 16008#12624: create thread 18276
+2021/05/23 16:00:58 [notice] 9584#13372: worker process 16524 exited with code 1
+2021/05/23 16:00:58 [notice] 9584#13372: start worker process 5028
+2021/05/23 16:00:59 [notice] 5028#18340: nginx/1.19.10
+2021/05/23 16:00:59 [info] 5028#18340: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:00:59 [notice] 5028#18340: create thread 8168
+2021/05/23 16:00:59 [notice] 5028#18340: create thread 7536
+2021/05/23 16:00:59 [notice] 5028#18340: create thread 9556
+2021/05/23 16:01:00 [notice] 9584#13372: worker process 5028 exited with code 1
+2021/05/23 16:01:00 [notice] 9584#13372: start worker process 18404
+2021/05/23 16:01:00 [notice] 18404#16412: nginx/1.19.10
+2021/05/23 16:01:00 [info] 18404#16412: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:01:00 [notice] 18404#16412: create thread 9132
+2021/05/23 16:01:00 [notice] 18404#16412: create thread 3120
+2021/05/23 16:01:00 [notice] 18404#16412: create thread 3888
+2021/05/23 16:01:05 [notice] 9584#13372: worker process 18404 exited with code 1
+2021/05/23 16:01:05 [notice] 9584#13372: start worker process 16860
+2021/05/23 16:01:05 [notice] 16860#16928: nginx/1.19.10
+2021/05/23 16:01:05 [info] 16860#16928: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:01:05 [notice] 16860#16928: create thread 3940
+2021/05/23 16:01:05 [notice] 16860#16928: create thread 7504
+2021/05/23 16:01:05 [notice] 16860#16928: create thread 11204
+2021/05/23 16:01:07 [notice] 9584#13372: worker process 16860 exited with code 1
+2021/05/23 16:01:07 [notice] 9584#13372: start worker process 9524
+2021/05/23 16:01:07 [notice] 9524#18196: nginx/1.19.10
+2021/05/23 16:01:07 [info] 9524#18196: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:01:07 [notice] 9524#18196: create thread 9340
+2021/05/23 16:01:07 [notice] 9524#18196: create thread 17972
+2021/05/23 16:01:07 [notice] 9524#18196: create thread 17028
+2021/05/23 16:01:16 [notice] 9584#13372: worker process 9524 exited with code 1
+2021/05/23 16:01:16 [notice] 9584#13372: start worker process 11472
+2021/05/23 16:01:16 [notice] 11472#15700: nginx/1.19.10
+2021/05/23 16:01:16 [info] 11472#15700: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:01:16 [notice] 11472#15700: create thread 12260
+2021/05/23 16:01:16 [notice] 11472#15700: create thread 16212
+2021/05/23 16:01:16 [notice] 11472#15700: create thread 4480
+2021/05/23 16:01:18 [notice] 9584#13372: worker process 11472 exited with code 1
+2021/05/23 16:01:18 [notice] 9584#13372: start worker process 17420
+2021/05/23 16:01:18 [notice] 17420#17520: nginx/1.19.10
+2021/05/23 16:01:18 [info] 17420#17520: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:01:18 [notice] 17420#17520: create thread 18040
+2021/05/23 16:01:18 [notice] 17420#17520: create thread 7852
+2021/05/23 16:01:18 [notice] 17420#17520: create thread 14168
+2021/05/23 16:01:20 [notice] 9584#13372: worker process 17420 exited with code 1
+2021/05/23 16:01:20 [notice] 9584#13372: start worker process 16144
+2021/05/23 16:01:20 [notice] 16144#12788: nginx/1.19.10
+2021/05/23 16:01:20 [info] 16144#12788: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:01:20 [notice] 16144#12788: create thread 9004
+2021/05/23 16:01:20 [notice] 16144#12788: create thread 17644
+2021/05/23 16:01:20 [notice] 16144#12788: create thread 4028
+2021/05/23 16:01:22 [notice] 9584#13372: worker process 16008 exited with code 1
+2021/05/23 16:01:22 [notice] 9584#13372: start worker process 11140
+2021/05/23 16:01:22 [notice] 11140#10640: nginx/1.19.10
+2021/05/23 16:01:22 [info] 11140#10640: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:01:22 [notice] 11140#10640: create thread 15072
+2021/05/23 16:01:22 [notice] 11140#10640: create thread 10744
+2021/05/23 16:01:22 [notice] 11140#10640: create thread 14240
+2021/05/23 16:01:53 [notice] 1288#6808: worker process 14820 exited with code 1
+2021/05/23 16:01:53 [notice] 1288#6808: start worker process 15780
+2021/05/23 16:01:53 [notice] 15780#17264: nginx/1.19.10
+2021/05/23 16:01:53 [info] 15780#17264: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:01:53 [notice] 15780#17264: create thread 4012
+2021/05/23 16:01:53 [notice] 15780#17264: create thread 8600
+2021/05/23 16:01:53 [notice] 15780#17264: create thread 15428
+2021/05/23 16:01:58 [notice] 1288#6808: worker process 15780 exited with code 1
+2021/05/23 16:01:58 [notice] 1288#6808: start worker process 10900
+2021/05/23 16:01:58 [notice] 10900#5624: nginx/1.19.10
+2021/05/23 16:01:58 [info] 10900#5624: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:01:58 [notice] 10900#5624: create thread 6868
+2021/05/23 16:01:58 [notice] 10900#5624: create thread 16952
+2021/05/23 16:01:58 [notice] 10900#5624: create thread 4500
+2021/05/23 16:02:03 [notice] 1288#6808: worker process 10900 exited with code 1
+2021/05/23 16:02:03 [notice] 1288#6808: start worker process 7352
+2021/05/23 16:02:03 [notice] 7352#1412: nginx/1.19.10
+2021/05/23 16:02:03 [info] 7352#1412: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:03 [notice] 7352#1412: create thread 15456
+2021/05/23 16:02:03 [notice] 7352#1412: create thread 16416
+2021/05/23 16:02:03 [notice] 7352#1412: create thread 16680
+2021/05/23 16:02:09 [notice] 1288#6808: worker process 7352 exited with code 1
+2021/05/23 16:02:09 [notice] 1288#6808: start worker process 9568
+2021/05/23 16:02:09 [notice] 9568#16268: nginx/1.19.10
+2021/05/23 16:02:09 [info] 9568#16268: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:09 [notice] 9568#16268: create thread 16500
+2021/05/23 16:02:09 [notice] 9568#16268: create thread 16328
+2021/05/23 16:02:09 [notice] 9568#16268: create thread 17716
+2021/05/23 16:02:12 [notice] 1288#6808: worker process 9568 exited with code 1
+2021/05/23 16:02:12 [notice] 1288#6808: start worker process 18296
+2021/05/23 16:02:12 [notice] 18296#12256: nginx/1.19.10
+2021/05/23 16:02:12 [info] 18296#12256: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:12 [notice] 18296#12256: create thread 6980
+2021/05/23 16:02:12 [notice] 18296#12256: create thread 12152
+2021/05/23 16:02:12 [notice] 18296#12256: create thread 3052
+2021/05/23 16:02:15 [notice] 1288#6808: worker process 18296 exited with code 1
+2021/05/23 16:02:15 [notice] 1288#6808: start worker process 13580
+2021/05/23 16:02:15 [notice] 13580#7440: nginx/1.19.10
+2021/05/23 16:02:15 [info] 13580#7440: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:15 [notice] 13580#7440: create thread 9204
+2021/05/23 16:02:15 [notice] 13580#7440: create thread 17980
+2021/05/23 16:02:15 [notice] 13580#7440: create thread 17580
+2021/05/23 16:02:21 [notice] 1288#6808: worker process 13580 exited with code 1
+2021/05/23 16:02:21 [notice] 1288#6808: start worker process 6248
+2021/05/23 16:02:21 [notice] 6248#10548: nginx/1.19.10
+2021/05/23 16:02:21 [info] 6248#10548: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:21 [notice] 6248#10548: create thread 1828
+2021/05/23 16:02:21 [notice] 6248#10548: create thread 1480
+2021/05/23 16:02:21 [notice] 6248#10548: create thread 7396
+2021/05/23 16:02:25 [notice] 1288#6808: worker process 6248 exited with code 1
+2021/05/23 16:02:25 [notice] 1288#6808: start worker process 7408
+2021/05/23 16:02:25 [notice] 7408#5096: nginx/1.19.10
+2021/05/23 16:02:25 [info] 7408#5096: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:25 [notice] 7408#5096: create thread 17124
+2021/05/23 16:02:25 [notice] 7408#5096: create thread 7384
+2021/05/23 16:02:25 [notice] 7408#5096: create thread 9884
+2021/05/23 16:02:33 [notice] 1288#6808: worker process 7408 exited with code 1
+2021/05/23 16:02:33 [notice] 1288#6808: start worker process 11644
+2021/05/23 16:02:33 [notice] 11644#14608: nginx/1.19.10
+2021/05/23 16:02:33 [info] 11644#14608: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:33 [notice] 11644#14608: create thread 9692
+2021/05/23 16:02:33 [notice] 11644#14608: create thread 1044
+2021/05/23 16:02:33 [notice] 11644#14608: create thread 13072
+2021/05/23 16:02:40 [notice] 1288#6808: worker process 11644 exited with code 1
+2021/05/23 16:02:40 [notice] 1288#6808: start worker process 8516
+2021/05/23 16:02:40 [notice] 8516#17956: nginx/1.19.10
+2021/05/23 16:02:40 [info] 8516#17956: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:40 [notice] 8516#17956: create thread 8964
+2021/05/23 16:02:40 [notice] 8516#17956: create thread 18028
+2021/05/23 16:02:40 [notice] 8516#17956: create thread 9836
+2021/05/23 16:02:43 [notice] 1288#6808: worker process 8516 exited with code 1
+2021/05/23 16:02:43 [notice] 1288#6808: start worker process 12180
+2021/05/23 16:02:43 [notice] 12180#15720: nginx/1.19.10
+2021/05/23 16:02:43 [info] 12180#15720: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:43 [notice] 12180#15720: create thread 15860
+2021/05/23 16:02:43 [notice] 12180#15720: create thread 18020
+2021/05/23 16:02:43 [notice] 12180#15720: create thread 8740
+2021/05/23 16:02:46 [notice] 1288#6808: worker process 12996 exited with code 1
+2021/05/23 16:02:46 [notice] 1288#6808: start worker process 18316
+2021/05/23 16:02:46 [notice] 18316#15924: nginx/1.19.10
+2021/05/23 16:02:46 [info] 18316#15924: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:46 [notice] 18316#15924: create thread 3916
+2021/05/23 16:02:46 [notice] 18316#15924: create thread 17148
+2021/05/23 16:02:46 [notice] 18316#15924: create thread 17344
+2021/05/23 16:02:48 [notice] 1288#6808: worker process 18316 exited with code 1
+2021/05/23 16:02:48 [notice] 1288#6808: start worker process 3924
+2021/05/23 16:02:48 [notice] 3924#15960: nginx/1.19.10
+2021/05/23 16:02:48 [info] 3924#15960: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:48 [notice] 3924#15960: create thread 15864
+2021/05/23 16:02:48 [notice] 3924#15960: create thread 15572
+2021/05/23 16:02:48 [notice] 3924#15960: create thread 17472
+2021/05/23 16:02:54 [notice] 1288#6808: worker process 3924 exited with code 1
+2021/05/23 16:02:54 [notice] 1288#6808: start worker process 17460
+2021/05/23 16:02:54 [notice] 17460#15900: nginx/1.19.10
+2021/05/23 16:02:54 [info] 17460#15900: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:54 [notice] 17460#15900: create thread 9588
+2021/05/23 16:02:54 [notice] 17460#15900: create thread 5916
+2021/05/23 16:02:54 [notice] 17460#15900: create thread 5928
+2021/05/23 16:02:56 [notice] 1288#6808: worker process 17460 exited with code 1
+2021/05/23 16:02:56 [notice] 1288#6808: start worker process 15660
+2021/05/23 16:02:56 [notice] 15660#12292: nginx/1.19.10
+2021/05/23 16:02:56 [info] 15660#12292: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:02:56 [notice] 15660#12292: create thread 17192
+2021/05/23 16:02:56 [notice] 15660#12292: create thread 10492
+2021/05/23 16:02:56 [notice] 15660#12292: create thread 9468
+2021/05/23 16:03:31 [notice] 1288#6808: worker process 15660 exited with code 1
+2021/05/23 16:03:31 [notice] 1288#6808: start worker process 10304
+2021/05/23 16:03:31 [notice] 10304#244: nginx/1.19.10
+2021/05/23 16:03:31 [info] 10304#244: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:03:31 [notice] 10304#244: create thread 15620
+2021/05/23 16:03:31 [notice] 10304#244: create thread 16856
+2021/05/23 16:03:31 [notice] 10304#244: create thread 8128
+2021/05/23 16:07:15 [notice] 1288#6808: worker process 10304 exited with code 1
+2021/05/23 16:07:15 [notice] 1288#6808: start worker process 18340
+2021/05/23 16:07:15 [notice] 18340#7536: nginx/1.19.10
+2021/05/23 16:07:15 [info] 18340#7536: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:07:15 [notice] 18340#7536: create thread 18272
+2021/05/23 16:07:15 [notice] 18340#7536: create thread 14488
+2021/05/23 16:07:15 [notice] 18340#7536: create thread 11240
+2021/05/23 16:07:19 [notice] 1288#6808: worker process 18340 exited with code 1
+2021/05/23 16:07:19 [notice] 1288#6808: start worker process 10928
+2021/05/23 16:07:19 [notice] 10928#16584: nginx/1.19.10
+2021/05/23 16:07:19 [info] 10928#16584: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:07:19 [notice] 10928#16584: create thread 3712
+2021/05/23 16:07:19 [notice] 10928#16584: create thread 16860
+2021/05/23 16:07:19 [notice] 10928#16584: create thread 680
+2021/05/23 16:07:25 [notice] 1288#6808: worker process 10928 exited with code 1
+2021/05/23 16:07:25 [notice] 1288#6808: start worker process 9284
+2021/05/23 16:07:25 [notice] 9284#8956: nginx/1.19.10
+2021/05/23 16:07:25 [info] 9284#8956: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:07:25 [notice] 9284#8956: create thread 17972
+2021/05/23 16:07:25 [notice] 9284#8956: create thread 17028
+2021/05/23 16:07:25 [notice] 9284#8956: create thread 9340
+2021/05/23 16:08:09 [notice] 17520#17420: signal process started
+2021/05/23 16:08:09 [error] 17520#17420: OpenEvent("Global\ngx_stop_9584") failed (2: The system cannot find the file specified)
+2021/05/23 16:08:22 [notice] 1288#6808: worker process 9284 exited with code 1
+2021/05/23 16:08:22 [notice] 1288#6808: start worker process 10132
+2021/05/23 16:08:22 [notice] 10132#12308: nginx/1.19.10
+2021/05/23 16:08:22 [info] 10132#12308: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:08:22 [notice] 10132#12308: create thread 16120
+2021/05/23 16:08:22 [notice] 10132#12308: create thread 13372
+2021/05/23 16:08:22 [notice] 10132#12308: create thread 9584
+2021/05/23 16:08:25 [notice] 1288#6808: worker process 10132 exited with code 1
+2021/05/23 16:08:25 [notice] 1288#6808: start worker process 2016
+2021/05/23 16:08:25 [notice] 2016#16652: nginx/1.19.10
+2021/05/23 16:08:25 [info] 2016#16652: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:08:25 [notice] 2016#16652: create thread 10640
+2021/05/23 16:08:25 [notice] 2016#16652: create thread 11140
+2021/05/23 16:08:25 [notice] 2016#16652: create thread 8908
+2021/05/23 16:08:30 [notice] 1288#6808: worker process 2016 exited with code 1
+2021/05/23 16:08:30 [notice] 1288#6808: start worker process 1260
+2021/05/23 16:08:30 [notice] 1260#2560: nginx/1.19.10
+2021/05/23 16:08:30 [info] 1260#2560: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:08:30 [notice] 1260#2560: create thread 9044
+2021/05/23 16:08:30 [notice] 1260#2560: create thread 15080
+2021/05/23 16:08:30 [notice] 1260#2560: create thread 3192
+2021/05/23 16:08:31 [notice] 1288#6808: worker process 1260 exited with code 1
+2021/05/23 16:08:31 [notice] 1288#6808: start worker process 9268
+2021/05/23 16:08:31 [notice] 9268#15596: nginx/1.19.10
+2021/05/23 16:08:31 [info] 9268#15596: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:08:31 [notice] 9268#15596: create thread 2320
+2021/05/23 16:08:31 [notice] 9268#15596: create thread 15172
+2021/05/23 16:08:31 [notice] 9268#15596: create thread 5228
+2021/05/23 16:08:36 [notice] 1288#6808: worker process 9268 exited with code 1
+2021/05/23 16:08:36 [notice] 1288#6808: start worker process 16304
+2021/05/23 16:08:36 [notice] 16304#17644: nginx/1.19.10
+2021/05/23 16:08:36 [info] 16304#17644: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:08:36 [notice] 16304#17644: create thread 8156
+2021/05/23 16:08:36 [notice] 16304#17644: create thread 3188
+2021/05/23 16:08:36 [notice] 16304#17644: create thread 18160
+2021/05/23 16:08:38 [notice] 1288#6808: worker process 12180 exited with code 1
+2021/05/23 16:08:38 [notice] 1288#6808: start worker process 5956
+2021/05/23 16:08:38 [notice] 5956#16160: nginx/1.19.10
+2021/05/23 16:08:38 [info] 5956#16160: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:08:38 [notice] 5956#16160: create thread 9324
+2021/05/23 16:08:38 [notice] 5956#16160: create thread 1040
+2021/05/23 16:08:38 [notice] 5956#16160: create thread 9824
+2021/05/23 16:11:32 [notice] 1288#6808: worker process 5956 exited with code 1
+2021/05/23 16:11:32 [notice] 1288#6808: start worker process 13032
+2021/05/23 16:11:32 [notice] 13032#2572: nginx/1.19.10
+2021/05/23 16:11:32 [info] 13032#2572: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:11:32 [notice] 13032#2572: create thread 14980
+2021/05/23 16:11:32 [notice] 13032#2572: create thread 2828
+2021/05/23 16:11:32 [notice] 13032#2572: create thread 12984
+2021/05/23 16:11:34 [notice] 1288#6808: worker process 13032 exited with code 1
+2021/05/23 16:11:34 [notice] 1288#6808: start worker process 16624
+2021/05/23 16:11:34 [notice] 16624#16376: nginx/1.19.10
+2021/05/23 16:11:34 [info] 16624#16376: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:11:34 [notice] 16624#16376: create thread 13580
+2021/05/23 16:11:34 [notice] 16624#16376: create thread 1468
+2021/05/23 16:11:34 [notice] 16624#16376: create thread 16912
+2021/05/23 16:11:35 [notice] 1288#6808: worker process 16624 exited with code 1
+2021/05/23 16:11:35 [notice] 1288#6808: start worker process 17024
+2021/05/23 16:11:35 [notice] 17024#17948: nginx/1.19.10
+2021/05/23 16:11:35 [info] 17024#17948: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:11:35 [notice] 17024#17948: create thread 6248
+2021/05/23 16:11:35 [notice] 17024#17948: create thread 4564
+2021/05/23 16:11:35 [notice] 17024#17948: create thread 2252
+2021/05/23 16:11:37 [notice] 1288#6808: worker process 16304 exited with code 1
+2021/05/23 16:11:37 [notice] 1288#6808: start worker process 16300
+2021/05/23 16:11:37 [notice] 16300#2168: nginx/1.19.10
+2021/05/23 16:11:37 [info] 16300#2168: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:11:37 [notice] 16300#2168: create thread 16308
+2021/05/23 16:11:37 [notice] 16300#2168: create thread 6804
+2021/05/23 16:11:37 [notice] 16300#2168: create thread 9772
+2021/05/23 16:11:39 [notice] 1288#6808: worker process 16300 exited with code 1
+2021/05/23 16:11:39 [notice] 1288#6808: start worker process 11244
+2021/05/23 16:11:39 [notice] 11244#12508: nginx/1.19.10
+2021/05/23 16:11:39 [info] 11244#12508: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:11:39 [notice] 11244#12508: create thread 17780
+2021/05/23 16:11:39 [notice] 11244#12508: create thread 17268
+2021/05/23 16:11:39 [notice] 11244#12508: create thread 5416
+2021/05/23 16:11:41 [notice] 1288#6808: worker process 17024 exited with code 1
+2021/05/23 16:11:41 [notice] 1288#6808: start worker process 5096
+2021/05/23 16:11:41 [notice] 5096#17124: nginx/1.19.10
+2021/05/23 16:11:41 [info] 5096#17124: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:11:41 [notice] 5096#17124: create thread 17756
+2021/05/23 16:11:41 [notice] 5096#17124: create thread 17096
+2021/05/23 16:11:41 [notice] 5096#17124: create thread 1708
+2021/05/23 16:11:42 [notice] 1288#6808: worker process 5096 exited with code 1
+2021/05/23 16:11:42 [notice] 1288#6808: start worker process 13072
+2021/05/23 16:11:42 [notice] 13072#9692: nginx/1.19.10
+2021/05/23 16:11:42 [info] 13072#9692: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:11:42 [notice] 13072#9692: create thread 2484
+2021/05/23 16:11:42 [notice] 13072#9692: create thread 2744
+2021/05/23 16:11:42 [notice] 13072#9692: create thread 17956
+2021/05/23 16:12:27 [notice] 1288#6808: worker process 13072 exited with code 40010004
+2021/05/23 16:12:27 [notice] 1288#6808: start worker process 6600
+2021/05/23 16:18:20 [notice] 5708#3284: using the "select" event method
+2021/05/23 16:18:20 [notice] 5708#3284: nginx/1.19.10
+2021/05/23 16:18:20 [info] 5708#3284: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:18:20 [notice] 5708#3284: start worker processes
+2021/05/23 16:18:20 [notice] 5708#3284: start worker process 3912
+2021/05/23 16:18:20 [notice] 3912#8316: nginx/1.19.10
+2021/05/23 16:18:20 [info] 3912#8316: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:18:20 [notice] 3912#8316: create thread 8400
+2021/05/23 16:18:20 [notice] 3912#8316: create thread 3308
+2021/05/23 16:18:20 [notice] 3912#8316: create thread 9820
+2021/05/23 16:18:20 [notice] 5708#3284: start worker process 3064
+2021/05/23 16:18:20 [notice] 3064#6440: nginx/1.19.10
+2021/05/23 16:18:20 [info] 3064#6440: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:18:20 [notice] 3064#6440: create thread 9804
+2021/05/23 16:18:20 [notice] 3064#6440: create thread 4268
+2021/05/23 16:18:20 [notice] 3064#6440: create thread 6164
+2021/05/23 16:18:20 [notice] 5708#3284: start worker process 11556
+2021/05/23 16:18:20 [notice] 11556#2424: nginx/1.19.10
+2021/05/23 16:18:20 [info] 11556#2424: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:18:20 [notice] 11556#2424: create thread 11032
+2021/05/23 16:18:20 [notice] 11556#2424: create thread 11028
+2021/05/23 16:18:20 [notice] 11556#2424: create thread 5612
+2021/05/23 16:18:21 [notice] 5708#3284: start worker process 11728
+2021/05/23 16:18:21 [notice] 11728#10656: nginx/1.19.10
+2021/05/23 16:18:21 [info] 11728#10656: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:18:21 [notice] 11728#10656: create thread 3044
+2021/05/23 16:18:21 [notice] 11728#10656: create thread 9360
+2021/05/23 16:18:21 [notice] 11728#10656: create thread 1520
+2021/05/23 16:26:03 [notice] 5708#3284: worker process 11556 exited with code 1
+2021/05/23 16:26:03 [notice] 5708#3284: start worker process 10712
+2021/05/23 16:26:03 [notice] 10712#7148: nginx/1.19.10
+2021/05/23 16:26:03 [info] 10712#7148: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:26:03 [notice] 10712#7148: create thread 9880
+2021/05/23 16:26:03 [notice] 10712#7148: create thread 1240
+2021/05/23 16:26:03 [notice] 10712#7148: create thread 7160
+2021/05/23 16:26:58 [notice] 5708#3284: worker process 10712 exited with code 1
+2021/05/23 16:26:58 [notice] 5708#3284: start worker process 11404
+2021/05/23 16:26:58 [notice] 11404#5224: nginx/1.19.10
+2021/05/23 16:26:58 [info] 11404#5224: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:26:58 [notice] 11404#5224: create thread 9960
+2021/05/23 16:26:58 [notice] 11404#5224: create thread 7268
+2021/05/23 16:26:58 [notice] 11404#5224: create thread 4740
+2021/05/23 16:27:29 [notice] 5708#3284: worker process 11404 exited with code 1
+2021/05/23 16:27:29 [notice] 5708#3284: start worker process 5092
+2021/05/23 16:27:29 [notice] 5092#7420: nginx/1.19.10
+2021/05/23 16:27:29 [info] 5092#7420: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:27:29 [notice] 5092#7420: create thread 5612
+2021/05/23 16:27:29 [notice] 5092#7420: create thread 8712
+2021/05/23 16:27:29 [notice] 5092#7420: create thread 4364
+2021/05/23 16:27:52 [notice] 5708#3284: worker process 5092 exited with code 1
+2021/05/23 16:27:52 [notice] 5708#3284: start worker process 11576
+2021/05/23 16:27:52 [notice] 11576#2352: nginx/1.19.10
+2021/05/23 16:27:52 [info] 11576#2352: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:27:52 [notice] 11576#2352: create thread 8496
+2021/05/23 16:27:52 [notice] 11576#2352: create thread 3400
+2021/05/23 16:27:52 [notice] 11576#2352: create thread 992
+2021/05/23 16:27:58 [notice] 5708#3284: worker process 11576 exited with code 1
+2021/05/23 16:27:58 [notice] 5708#3284: start worker process 5072
+2021/05/23 16:27:58 [notice] 5072#3544: nginx/1.19.10
+2021/05/23 16:27:58 [info] 5072#3544: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:27:58 [notice] 5072#3544: create thread 4940
+2021/05/23 16:27:58 [notice] 5072#3544: create thread 11560
+2021/05/23 16:27:58 [notice] 5072#3544: create thread 11968
+2021/05/23 16:28:01 [notice] 5708#3284: worker process 5072 exited with code 1
+2021/05/23 16:28:01 [notice] 5708#3284: start worker process 2752
+2021/05/23 16:28:01 [notice] 2752#8096: nginx/1.19.10
+2021/05/23 16:28:01 [info] 2752#8096: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:28:01 [notice] 2752#8096: create thread 8460
+2021/05/23 16:28:01 [notice] 2752#8096: create thread 7460
+2021/05/23 16:28:01 [notice] 2752#8096: create thread 7284
+2021/05/23 16:28:39 [notice] 5708#3284: worker process 3064 exited with code 1
+2021/05/23 16:28:39 [notice] 5708#3284: start worker process 11968
+2021/05/23 16:28:39 [notice] 11968#11064: nginx/1.19.10
+2021/05/23 16:28:39 [info] 11968#11064: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:28:39 [notice] 11968#11064: create thread 12112
+2021/05/23 16:28:39 [notice] 11968#11064: create thread 10188
+2021/05/23 16:28:39 [notice] 11968#11064: create thread 6932
+2021/05/23 16:32:17 [notice] 5708#3284: worker process 11968 exited with code 1
+2021/05/23 16:32:17 [notice] 5708#3284: start worker process 10460
+2021/05/23 16:32:17 [notice] 10460#3596: nginx/1.19.10
+2021/05/23 16:32:17 [info] 10460#3596: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:32:17 [notice] 10460#3596: create thread 9592
+2021/05/23 16:32:17 [notice] 10460#3596: create thread 3676
+2021/05/23 16:32:17 [notice] 10460#3596: create thread 3824
+2021/05/23 16:32:28 [notice] 5708#3284: worker process 10460 exited with code 1
+2021/05/23 16:32:28 [notice] 5708#3284: start worker process 8792
+2021/05/23 16:32:28 [notice] 8792#308: nginx/1.19.10
+2021/05/23 16:32:28 [info] 8792#308: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:32:28 [notice] 8792#308: create thread 7276
+2021/05/23 16:32:28 [notice] 8792#308: create thread 11188
+2021/05/23 16:32:28 [notice] 8792#308: create thread 6912
+2021/05/23 16:32:34 [notice] 5708#3284: worker process 8792 exited with code 1
+2021/05/23 16:32:34 [notice] 5708#3284: start worker process 11460
+2021/05/23 16:32:34 [notice] 11460#6860: nginx/1.19.10
+2021/05/23 16:32:34 [info] 11460#6860: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:32:34 [notice] 11460#6860: create thread 6440
+2021/05/23 16:32:34 [notice] 11460#6860: create thread 3240
+2021/05/23 16:32:34 [notice] 11460#6860: create thread 4700
+2021/05/23 16:32:39 [notice] 5708#3284: worker process 11460 exited with code 1
+2021/05/23 16:32:39 [notice] 5708#3284: start worker process 7348
+2021/05/23 16:32:39 [notice] 7348#4964: nginx/1.19.10
+2021/05/23 16:32:39 [info] 7348#4964: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:32:39 [notice] 7348#4964: create thread 10968
+2021/05/23 16:32:39 [notice] 7348#4964: create thread 444
+2021/05/23 16:32:39 [notice] 7348#4964: create thread 7156
+2021/05/23 16:32:43 [notice] 5708#3284: worker process 7348 exited with code 1
+2021/05/23 16:32:43 [notice] 5708#3284: start worker process 6532
+2021/05/23 16:32:43 [notice] 6532#2764: nginx/1.19.10
+2021/05/23 16:32:43 [info] 6532#2764: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:32:43 [notice] 6532#2764: create thread 9796
+2021/05/23 16:32:43 [notice] 6532#2764: create thread 10768
+2021/05/23 16:32:43 [notice] 6532#2764: create thread 2232
+2021/05/23 16:32:50 [notice] 5708#3284: worker process 6532 exited with code 1
+2021/05/23 16:32:50 [notice] 5708#3284: start worker process 1644
+2021/05/23 16:32:50 [notice] 1644#9664: nginx/1.19.10
+2021/05/23 16:32:50 [info] 1644#9664: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:32:50 [notice] 1644#9664: create thread 9004
+2021/05/23 16:32:50 [notice] 1644#9664: create thread 9620
+2021/05/23 16:32:50 [notice] 1644#9664: create thread 2568
+2021/05/23 16:33:08 [notice] 9796#9696: using the "select" event method
+2021/05/23 16:33:08 [notice] 9796#9696: nginx/1.19.10
+2021/05/23 16:33:08 [info] 9796#9696: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:33:08 [notice] 9796#9696: start worker processes
+2021/05/23 16:33:08 [notice] 9796#9696: start worker process 11196
+2021/05/23 16:33:08 [notice] 11196#3892: nginx/1.19.10
+2021/05/23 16:33:08 [info] 11196#3892: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:33:08 [notice] 11196#3892: create thread 9960
+2021/05/23 16:33:08 [notice] 11196#3892: create thread 11548
+2021/05/23 16:33:08 [notice] 11196#3892: create thread 8864
+2021/05/23 16:33:16 [error] 3912#8400: *3 CreateFile() "D:/IPS/web-develop/lw12/web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/23 16:33:20 [error] 3912#8400: *4 CreateFile() "D:/IPS/web-develop/lw12/web/web" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /web HTTP/1.1", host: "lw12.loc"
+2021/05/23 16:33:20 [error] 3912#8400: *4 CreateFile() "D:/IPS/web-develop/lw12/web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/web"
+2021/05/23 16:34:31 [notice] 10880#11564: signal process started
+2021/05/23 16:34:31 [notice] 9796#9696: reconfiguring
+2021/05/23 16:34:31 [notice] 9796#9696: using the "select" event method
+2021/05/23 16:34:31 [notice] 9796#9696: start worker processes
+2021/05/23 16:34:31 [notice] 9796#9696: start worker process 7076
+2021/05/23 16:34:31 [notice] 7076#5040: nginx/1.19.10
+2021/05/23 16:34:31 [info] 7076#5040: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:34:31 [notice] 11196#3892: gracefully shutting down
+2021/05/23 16:34:31 [notice] 7076#5040: create thread 4360
+2021/05/23 16:34:31 [notice] 11196#11548: exiting
+2021/05/23 16:34:31 [notice] 7076#5040: create thread 9824
+2021/05/23 16:34:31 [notice] 7076#5040: create thread 1884
+2021/05/23 16:34:32 [notice] 11196#9960: exiting
+2021/05/23 16:34:32 [notice] 11196#3892: exit
+2021/05/23 16:34:32 [notice] 9796#9696: worker process 11196 exited with code 0
+2021/05/23 16:34:46 [error] 3912#8400: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:34:50 [error] 3912#8400: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:35:22 [notice] 10416#3172: signal process started
+2021/05/23 16:35:22 [notice] 9796#9696: reconfiguring
+2021/05/23 16:35:22 [notice] 9796#9696: using the "select" event method
+2021/05/23 16:35:22 [notice] 9796#9696: start worker processes
+2021/05/23 16:35:22 [notice] 9796#9696: start worker process 10516
+2021/05/23 16:35:22 [notice] 10516#10532: nginx/1.19.10
+2021/05/23 16:35:22 [info] 10516#10532: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:35:22 [notice] 7076#5040: gracefully shutting down
+2021/05/23 16:35:22 [notice] 7076#9824: exiting
+2021/05/23 16:35:22 [notice] 10516#10532: create thread 11412
+2021/05/23 16:35:22 [notice] 10516#10532: create thread 9804
+2021/05/23 16:35:22 [notice] 10516#10532: create thread 5056
+2021/05/23 16:35:23 [notice] 7076#4360: exiting
+2021/05/23 16:35:23 [notice] 7076#5040: exit
+2021/05/23 16:35:23 [notice] 9796#9696: worker process 7076 exited with code 0
+2021/05/23 16:35:29 [error] 3912#8400: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:35:33 [error] 3912#8400: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:35:41 [error] 3912#8400: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:35:47 [error] 3912#8400: *7 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:35:56 [notice] 9796#9696: worker process 10516 exited with code 1
+2021/05/23 16:35:56 [notice] 9796#9696: start worker process 10032
+2021/05/23 16:35:56 [notice] 10032#6892: nginx/1.19.10
+2021/05/23 16:35:56 [info] 10032#6892: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:35:56 [notice] 10032#6892: create thread 10288
+2021/05/23 16:35:56 [notice] 10032#6892: create thread 560
+2021/05/23 16:35:56 [notice] 10032#6892: create thread 8196
+2021/05/23 16:36:01 [notice] 9796#9696: worker process 10032 exited with code 1
+2021/05/23 16:36:01 [notice] 9796#9696: start worker process 3244
+2021/05/23 16:36:01 [notice] 3244#6164: nginx/1.19.10
+2021/05/23 16:36:01 [info] 3244#6164: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:36:01 [notice] 3244#6164: create thread 10232
+2021/05/23 16:36:01 [notice] 3244#6164: create thread 11128
+2021/05/23 16:36:01 [notice] 3244#6164: create thread 3048
+2021/05/23 16:36:10 [notice] 5708#3284: worker process 2752 exited with code 1
+2021/05/23 16:36:10 [notice] 5708#3284: start worker process 1888
+2021/05/23 16:36:10 [notice] 1888#2424: nginx/1.19.10
+2021/05/23 16:36:10 [info] 1888#2424: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:36:10 [notice] 1888#2424: create thread 11768
+2021/05/23 16:36:10 [notice] 1888#2424: create thread 10128
+2021/05/23 16:36:10 [notice] 1888#2424: create thread 7080
+2021/05/23 16:36:15 [notice] 5708#3284: worker process 11728 exited with code 1
+2021/05/23 16:36:15 [notice] 5708#3284: start worker process 12152
+2021/05/23 16:36:15 [notice] 12152#7820: nginx/1.19.10
+2021/05/23 16:36:15 [info] 12152#7820: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:36:15 [notice] 12152#7820: create thread 7364
+2021/05/23 16:36:15 [notice] 12152#7820: create thread 10408
+2021/05/23 16:36:15 [notice] 12152#7820: create thread 1920
+2021/05/23 16:36:35 [notice] 5708#3284: worker process 12152 exited with code 1
+2021/05/23 16:36:35 [notice] 5708#3284: start worker process 7448
+2021/05/23 16:36:35 [notice] 7448#11124: nginx/1.19.10
+2021/05/23 16:36:35 [info] 7448#11124: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:36:35 [notice] 7448#11124: create thread 3240
+2021/05/23 16:36:35 [notice] 7448#11124: create thread 10312
+2021/05/23 16:36:35 [notice] 7448#11124: create thread 5224
+2021/05/23 16:36:38 [notice] 5708#3284: worker process 3912 exited with code 1
+2021/05/23 16:36:38 [notice] 5708#3284: start worker process 7628
+2021/05/23 16:36:38 [notice] 7628#6312: nginx/1.19.10
+2021/05/23 16:36:38 [info] 7628#6312: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:36:38 [notice] 7628#6312: create thread 2620
+2021/05/23 16:36:38 [notice] 7628#6312: create thread 4524
+2021/05/23 16:36:38 [notice] 7628#6312: create thread 1692
+2021/05/23 16:37:31 [notice] 2628#10416: using the "select" event method
+2021/05/23 16:37:31 [notice] 2628#10416: nginx/1.19.10
+2021/05/23 16:37:31 [info] 2628#10416: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:37:31 [notice] 2628#10416: start worker processes
+2021/05/23 16:37:31 [notice] 2628#10416: start worker process 2136
+2021/05/23 16:37:31 [notice] 2136#5092: nginx/1.19.10
+2021/05/23 16:37:31 [info] 2136#5092: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:37:31 [notice] 2136#5092: create thread 6092
+2021/05/23 16:37:31 [notice] 2136#5092: create thread 6344
+2021/05/23 16:37:31 [notice] 2136#5092: create thread 1980
+2021/05/23 16:37:39 [error] 2136#6092: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:37:43 [error] 2136#6092: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:38:01 [notice] 11476#8392: signal process started
+2021/05/23 16:38:01 [notice] 2628#10416: reconfiguring
+2021/05/23 16:38:01 [notice] 2628#10416: using the "select" event method
+2021/05/23 16:38:01 [notice] 2628#10416: start worker processes
+2021/05/23 16:38:01 [notice] 2628#10416: start worker process 11564
+2021/05/23 16:38:01 [notice] 11564#2880: nginx/1.19.10
+2021/05/23 16:38:01 [info] 11564#2880: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:38:01 [notice] 2136#5092: gracefully shutting down
+2021/05/23 16:38:01 [notice] 11564#2880: create thread 10968
+2021/05/23 16:38:01 [notice] 2136#6344: exiting
+2021/05/23 16:38:01 [notice] 11564#2880: create thread 3552
+2021/05/23 16:38:01 [notice] 11564#2880: create thread 5848
+2021/05/23 16:38:01 [notice] 2136#6092: exiting
+2021/05/23 16:38:01 [notice] 2136#5092: exit
+2021/05/23 16:38:01 [notice] 2628#10416: worker process 2136 exited with code 0
+2021/05/23 16:38:23 [notice] 32#5368: using the "select" event method
+2021/05/23 16:38:23 [notice] 32#5368: nginx/1.19.10
+2021/05/23 16:38:23 [info] 32#5368: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:38:23 [notice] 32#5368: start worker processes
+2021/05/23 16:38:23 [notice] 32#5368: start worker process 11328
+2021/05/23 16:38:23 [notice] 11328#3876: nginx/1.19.10
+2021/05/23 16:38:23 [info] 11328#3876: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:38:23 [notice] 11328#3876: create thread 8316
+2021/05/23 16:38:23 [notice] 11328#3876: create thread 1996
+2021/05/23 16:38:23 [notice] 11328#3876: create thread 1980
+2021/05/23 16:39:11 [error] 11328#8316: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:39:20 [error] 11328#8316: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:39:56 [error] 11328#8316: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:40:01 [error] 11328#8316: *6 CreateFile() "D:\IPS\web-develop\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/05/23 16:40:10 [error] 11328#8316: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:41:21 [notice] 10968#2936: signal process started
+2021/05/23 16:41:21 [notice] 32#5368: reconfiguring
+2021/05/23 16:41:21 [notice] 32#5368: using the "select" event method
+2021/05/23 16:41:21 [notice] 32#5368: start worker processes
+2021/05/23 16:41:21 [notice] 32#5368: start worker process 2096
+2021/05/23 16:41:21 [notice] 2096#3392: nginx/1.19.10
+2021/05/23 16:41:21 [info] 2096#3392: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:41:21 [notice] 2096#3392: create thread 5524
+2021/05/23 16:41:21 [notice] 11328#3876: gracefully shutting down
+2021/05/23 16:41:21 [notice] 11328#1996: exiting
+2021/05/23 16:41:21 [notice] 2096#3392: create thread 3180
+2021/05/23 16:41:21 [notice] 2096#3392: create thread 1380
+2021/05/23 16:41:21 [notice] 11328#8316: exiting
+2021/05/23 16:41:21 [notice] 11328#3876: exit
+2021/05/23 16:41:21 [notice] 32#5368: worker process 11328 exited with code 0
+2021/05/23 16:41:28 [error] 2096#5524: *8 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:41:31 [error] 2096#5524: *8 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:41:36 [notice] 32#5368: worker process 2096 exited with code 1
+2021/05/23 16:41:36 [notice] 32#5368: start worker process 7628
+2021/05/23 16:41:36 [notice] 7628#6032: nginx/1.19.10
+2021/05/23 16:41:36 [info] 7628#6032: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:41:36 [notice] 7628#6032: create thread 7280
+2021/05/23 16:41:36 [notice] 7628#6032: create thread 3980
+2021/05/23 16:41:36 [notice] 7628#6032: create thread 3964
+2021/05/23 16:41:47 [notice] 12104#10368: using the "select" event method
+2021/05/23 16:41:47 [notice] 12104#10368: nginx/1.19.10
+2021/05/23 16:41:47 [info] 12104#10368: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:41:47 [notice] 12104#10368: start worker processes
+2021/05/23 16:41:47 [notice] 12104#10368: start worker process 2732
+2021/05/23 16:41:47 [notice] 2732#5684: nginx/1.19.10
+2021/05/23 16:41:47 [info] 2732#5684: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:41:47 [notice] 2732#5684: create thread 6164
+2021/05/23 16:41:47 [notice] 2732#5684: create thread 8772
+2021/05/23 16:41:47 [notice] 2732#5684: create thread 4448
+2021/05/23 16:41:58 [error] 2732#6164: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:42:40 [notice] 2028#10364: signal process started
+2021/05/23 16:42:40 [notice] 12104#10368: reconfiguring
+2021/05/23 16:42:40 [notice] 12104#10368: using the "select" event method
+2021/05/23 16:42:40 [notice] 12104#10368: start worker processes
+2021/05/23 16:42:40 [notice] 12104#10368: start worker process 7448
+2021/05/23 16:42:40 [notice] 7448#7820: nginx/1.19.10
+2021/05/23 16:42:40 [info] 7448#7820: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:42:40 [notice] 2732#5684: gracefully shutting down
+2021/05/23 16:42:40 [notice] 7448#7820: create thread 7480
+2021/05/23 16:42:40 [notice] 2732#8772: exiting
+2021/05/23 16:42:40 [notice] 7448#7820: create thread 3320
+2021/05/23 16:42:40 [notice] 7448#7820: create thread 2620
+2021/05/23 16:42:40 [notice] 2732#6164: exiting
+2021/05/23 16:42:40 [notice] 2732#5684: exit
+2021/05/23 16:42:40 [notice] 12104#10368: worker process 2732 exited with code 0
+2021/05/23 16:42:46 [error] 7448#7480: *3 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:42:50 [error] 7448#7480: *3 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:43:04 [error] 7448#7480: *3 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:43:18 [notice] 7800#13940: signal process started
+2021/05/23 16:43:18 [error] 7800#13940: OpenEvent("Global\ngx_reload_12104") failed (2: The system cannot find the file specified)
+2021/05/23 16:43:21 [notice] 14440#14444: using the "select" event method
+2021/05/23 16:43:21 [notice] 14440#14444: nginx/1.19.10
+2021/05/23 16:43:21 [info] 14440#14444: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:43:21 [notice] 14440#14444: start worker processes
+2021/05/23 16:43:21 [notice] 14440#14444: start worker process 14508
+2021/05/23 16:43:21 [notice] 14508#14512: nginx/1.19.10
+2021/05/23 16:43:21 [info] 14508#14512: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:43:21 [notice] 14508#14512: create thread 14572
+2021/05/23 16:43:21 [notice] 14508#14512: create thread 14576
+2021/05/23 16:43:21 [notice] 14508#14512: create thread 14580
+2021/05/23 16:43:30 [error] 14508#14572: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:43:34 [error] 14508#14572: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:44:54 [error] 14508#14572: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:46:37 [notice] 5800#14956: signal process started
+2021/05/23 16:46:37 [notice] 14440#14444: reconfiguring
+2021/05/23 16:46:37 [notice] 14440#14444: using the "select" event method
+2021/05/23 16:46:37 [notice] 14440#14444: start worker processes
+2021/05/23 16:46:37 [notice] 14440#14444: start worker process 12600
+2021/05/23 16:46:37 [notice] 12600#14904: nginx/1.19.10
+2021/05/23 16:46:37 [info] 12600#14904: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:46:37 [notice] 14508#14512: gracefully shutting down
+2021/05/23 16:46:37 [notice] 14508#14576: exiting
+2021/05/23 16:46:37 [notice] 12600#14904: create thread 14360
+2021/05/23 16:46:37 [notice] 12600#14904: create thread 13316
+2021/05/23 16:46:37 [notice] 12600#14904: create thread 14912
+2021/05/23 16:46:37 [notice] 14508#14572: exiting
+2021/05/23 16:46:37 [notice] 14508#14512: exit
+2021/05/23 16:46:37 [notice] 14440#14444: worker process 14508 exited with code 0
+2021/05/23 16:48:14 [notice] 2884#3936: signal process started
+2021/05/23 16:48:14 [notice] 14440#14444: reconfiguring
+2021/05/23 16:48:14 [notice] 14440#14444: using the "select" event method
+2021/05/23 16:48:14 [notice] 14440#14444: start worker processes
+2021/05/23 16:48:14 [notice] 14440#14444: start worker process 12416
+2021/05/23 16:48:14 [notice] 12416#12380: nginx/1.19.10
+2021/05/23 16:48:14 [info] 12416#12380: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:48:14 [notice] 12600#14904: gracefully shutting down
+2021/05/23 16:48:14 [notice] 12416#12380: create thread 14604
+2021/05/23 16:48:14 [notice] 12600#13316: exiting
+2021/05/23 16:48:14 [notice] 12416#12380: create thread 14316
+2021/05/23 16:48:14 [notice] 12416#12380: create thread 3152
+2021/05/23 16:48:14 [notice] 12600#14360: exiting
+2021/05/23 16:48:14 [notice] 12600#14904: exit
+2021/05/23 16:48:14 [notice] 14440#14444: worker process 12600 exited with code 0
+2021/05/23 16:48:22 [error] 12416#14604: *9 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "lw12.loc"
+2021/05/23 16:48:22 [error] 12416#14604: *9 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/23 16:49:45 [notice] 12420#13212: signal process started
+2021/05/23 16:49:45 [notice] 14440#14444: reconfiguring
+2021/05/23 16:49:45 [notice] 14440#14444: using the "select" event method
+2021/05/23 16:49:45 [notice] 14440#14444: start worker processes
+2021/05/23 16:49:45 [notice] 14440#14444: start worker process 13068
+2021/05/23 16:49:45 [notice] 13068#10456: nginx/1.19.10
+2021/05/23 16:49:45 [info] 13068#10456: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:49:45 [notice] 12416#12380: gracefully shutting down
+2021/05/23 16:49:45 [notice] 13068#10456: create thread 15216
+2021/05/23 16:49:45 [notice] 12416#14316: exiting
+2021/05/23 16:49:45 [notice] 13068#10456: create thread 296
+2021/05/23 16:49:45 [notice] 13068#10456: create thread 11252
+2021/05/23 16:49:46 [notice] 12416#14604: exiting
+2021/05/23 16:49:46 [notice] 12416#12380: exit
+2021/05/23 16:49:46 [notice] 14440#14444: worker process 12416 exited with code 0
+2021/05/23 16:49:51 [error] 13068#15216: *11 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 16:51:04 [error] 13068#15216: *13 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 16:51:04 [error] 13068#15216: *13 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/23 16:51:38 [notice] 2480#4856: signal process started
+2021/05/23 16:51:38 [notice] 14440#14444: reconfiguring
+2021/05/23 16:51:38 [notice] 14440#14444: using the "select" event method
+2021/05/23 16:51:38 [notice] 14440#14444: start worker processes
+2021/05/23 16:51:38 [notice] 14440#14444: start worker process 12584
+2021/05/23 16:51:38 [notice] 12584#13832: nginx/1.19.10
+2021/05/23 16:51:38 [info] 12584#13832: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 16:51:38 [notice] 12584#13832: create thread 13248
+2021/05/23 16:51:38 [notice] 13068#10456: gracefully shutting down
+2021/05/23 16:51:38 [notice] 13068#296: exiting
+2021/05/23 16:51:38 [notice] 12584#13832: create thread 10248
+2021/05/23 16:51:38 [notice] 12584#13832: create thread 3380
+2021/05/23 16:51:38 [notice] 13068#15216: exiting
+2021/05/23 16:51:38 [notice] 13068#10456: exit
+2021/05/23 16:51:38 [notice] 14440#14444: worker process 13068 exited with code 0
+2021/05/23 16:51:45 [error] 12584#13248: *15 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/23 17:04:30 [notice] 12544#9724: signal process started
+2021/05/23 17:04:30 [notice] 14440#14444: reconfiguring
+2021/05/23 17:04:30 [notice] 14440#14444: using the "select" event method
+2021/05/23 17:04:30 [notice] 14440#14444: start worker processes
+2021/05/23 17:04:30 [notice] 14440#14444: start worker process 12800
+2021/05/23 17:04:30 [notice] 12800#5800: nginx/1.19.10
+2021/05/23 17:04:30 [info] 12800#5800: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 17:04:30 [notice] 12800#5800: create thread 624
+2021/05/23 17:04:30 [notice] 12584#13832: gracefully shutting down
+2021/05/23 17:04:30 [notice] 12800#5800: create thread 10388
+2021/05/23 17:04:30 [notice] 12584#10248: exiting
+2021/05/23 17:04:30 [notice] 12800#5800: create thread 7172
+2021/05/23 17:04:30 [notice] 12584#13248: exiting
+2021/05/23 17:04:30 [notice] 12584#13832: exit
+2021/05/23 17:04:30 [notice] 14440#14444: worker process 12584 exited with code 0
+2021/05/23 17:05:37 [notice] 14752#14892: signal process started
+2021/05/23 17:05:37 [notice] 14440#14444: reconfiguring
+2021/05/23 17:05:37 [notice] 14440#14444: using the "select" event method
+2021/05/23 17:05:37 [notice] 14440#14444: start worker processes
+2021/05/23 17:05:37 [notice] 14440#14444: start worker process 2620
+2021/05/23 17:05:37 [notice] 2620#12576: nginx/1.19.10
+2021/05/23 17:05:37 [info] 2620#12576: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 17:05:37 [notice] 12800#5800: gracefully shutting down
+2021/05/23 17:05:37 [notice] 2620#12576: create thread 10904
+2021/05/23 17:05:37 [notice] 12800#10388: exiting
+2021/05/23 17:05:37 [notice] 2620#12576: create thread 14844
+2021/05/23 17:05:37 [notice] 2620#12576: create thread 6336
+2021/05/23 17:05:38 [notice] 12800#624: exiting
+2021/05/23 17:05:38 [notice] 12800#5800: exit
+2021/05/23 17:05:38 [notice] 14440#14444: worker process 12800 exited with code 0
+2021/05/23 17:07:53 [notice] 15324#13916: signal process started
+2021/05/23 17:07:53 [notice] 14440#14444: reconfiguring
+2021/05/23 17:07:53 [notice] 14440#14444: using the "select" event method
+2021/05/23 17:07:53 [notice] 14440#14444: start worker processes
+2021/05/23 17:07:53 [notice] 14440#14444: start worker process 2628
+2021/05/23 17:07:53 [notice] 2628#12976: nginx/1.19.10
+2021/05/23 17:07:53 [info] 2628#12976: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 17:07:53 [notice] 2620#12576: gracefully shutting down
+2021/05/23 17:07:53 [notice] 2628#12976: create thread 14992
+2021/05/23 17:07:53 [notice] 2620#14844: exiting
+2021/05/23 17:07:53 [notice] 2628#12976: create thread 12020
+2021/05/23 17:07:53 [notice] 2628#12976: create thread 14384
+2021/05/23 17:07:53 [notice] 2620#10904: exiting
+2021/05/23 17:07:53 [notice] 2620#12576: exit
+2021/05/23 17:07:53 [notice] 14440#14444: worker process 2620 exited with code 0
+2021/05/23 17:07:58 [error] 2628#14992: *22 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/23 17:11:00 [notice] 11916#13616: signal process started
+2021/05/23 17:11:00 [notice] 14440#14444: reconfiguring
+2021/05/23 17:11:00 [notice] 14440#14444: using the "select" event method
+2021/05/23 17:11:00 [notice] 14440#14444: start worker processes
+2021/05/23 17:11:00 [notice] 14440#14444: start worker process 11284
+2021/05/23 17:11:00 [notice] 11284#7036: nginx/1.19.10
+2021/05/23 17:11:00 [info] 11284#7036: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 17:11:00 [notice] 11284#7036: create thread 14116
+2021/05/23 17:11:00 [notice] 2628#12976: gracefully shutting down
+2021/05/23 17:11:00 [notice] 2628#12020: exiting
+2021/05/23 17:11:00 [notice] 11284#7036: create thread 4268
+2021/05/23 17:11:00 [notice] 11284#7036: create thread 4432
+2021/05/23 17:11:00 [notice] 2628#14992: exiting
+2021/05/23 17:11:00 [notice] 2628#12976: exit
+2021/05/23 17:11:00 [notice] 14440#14444: worker process 2628 exited with code 0
+2021/05/23 17:11:30 [error] 11284#14116: *27 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/23 17:11:31 [error] 11284#14116: *31 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/23 17:14:27 [notice] 1896#7984: signal process started
+2021/05/23 17:14:27 [notice] 14440#14444: reconfiguring
+2021/05/23 17:14:27 [notice] 14440#14444: using the "select" event method
+2021/05/23 17:14:27 [notice] 14440#14444: start worker processes
+2021/05/23 17:14:27 [notice] 14440#14444: start worker process 10748
+2021/05/23 17:14:28 [notice] 10748#14636: nginx/1.19.10
+2021/05/23 17:14:28 [info] 10748#14636: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 17:14:28 [notice] 11284#7036: gracefully shutting down
+2021/05/23 17:14:28 [notice] 10748#14636: create thread 13976
+2021/05/23 17:14:28 [notice] 11284#4268: exiting
+2021/05/23 17:14:28 [notice] 10748#14636: create thread 2812
+2021/05/23 17:14:28 [notice] 10748#14636: create thread 428
+2021/05/23 17:14:28 [notice] 11284#14116: exiting
+2021/05/23 17:14:28 [notice] 11284#7036: exit
+2021/05/23 17:14:28 [notice] 14440#14444: worker process 11284 exited with code 0
+2021/05/23 17:14:41 [error] 10748#13976: *37 CreateFile() "D:\IPS\web-develop\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/05/23 17:15:07 [error] 10748#13976: *39 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/05/23 17:15:07 [error] 10748#13976: *39 CreateFile() "D:\IPS\web-develop\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/05/23 17:15:17 [notice] 10988#3724: signal process started
+2021/05/23 17:15:17 [notice] 14440#14444: reconfiguring
+2021/05/23 17:15:17 [notice] 14440#14444: using the "select" event method
+2021/05/23 17:15:17 [notice] 14440#14444: start worker processes
+2021/05/23 17:15:17 [notice] 14440#14444: start worker process 10956
+2021/05/23 17:15:17 [notice] 10956#1808: nginx/1.19.10
+2021/05/23 17:15:17 [info] 10956#1808: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 17:15:17 [notice] 10748#14636: gracefully shutting down
+2021/05/23 17:15:17 [notice] 10956#1808: create thread 3856
+2021/05/23 17:15:17 [notice] 10748#2812: exiting
+2021/05/23 17:15:17 [notice] 10956#1808: create thread 2768
+2021/05/23 17:15:17 [notice] 10956#1808: create thread 15328
+2021/05/23 17:15:17 [notice] 10748#13976: exiting
+2021/05/23 17:15:17 [notice] 10748#14636: exit
+2021/05/23 17:15:17 [notice] 14440#14444: worker process 10748 exited with code 0
+2021/05/23 17:15:23 [error] 10956#3856: *41 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/05/23 17:15:28 [error] 10956#3856: *41 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/05/23 17:15:28 [error] 10956#3856: *41 CreateFile() "D:\IPS\web-develop\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/05/23 17:17:55 [notice] 12856#13864: signal process started
+2021/05/23 17:17:55 [notice] 14440#14444: reconfiguring
+2021/05/23 17:17:55 [notice] 14440#14444: using the "select" event method
+2021/05/23 17:17:55 [notice] 14440#14444: start worker processes
+2021/05/23 17:17:55 [notice] 14440#14444: start worker process 14900
+2021/05/23 17:17:55 [notice] 14900#15132: nginx/1.19.10
+2021/05/23 17:17:55 [info] 14900#15132: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 17:17:55 [notice] 10956#1808: gracefully shutting down
+2021/05/23 17:17:55 [notice] 14900#15132: create thread 12372
+2021/05/23 17:17:55 [notice] 10956#2768: exiting
+2021/05/23 17:17:55 [notice] 14900#15132: create thread 15344
+2021/05/23 17:17:55 [notice] 14900#15132: create thread 14120
+2021/05/23 17:17:55 [notice] 10956#3856: exiting
+2021/05/23 17:17:55 [notice] 10956#1808: exit
+2021/05/23 17:17:55 [notice] 14440#14444: worker process 10956 exited with code 0
+2021/05/23 17:20:19 [notice] 3552#13288: signal process started
+2021/05/23 17:20:19 [notice] 14440#14444: reconfiguring
+2021/05/23 17:20:19 [notice] 14440#14444: using the "select" event method
+2021/05/23 17:20:19 [notice] 14440#14444: start worker processes
+2021/05/23 17:20:19 [notice] 14440#14444: start worker process 15144
+2021/05/23 17:20:19 [notice] 15144#11016: nginx/1.19.10
+2021/05/23 17:20:19 [info] 15144#11016: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 17:20:19 [notice] 14900#15132: gracefully shutting down
+2021/05/23 17:20:19 [notice] 15144#11016: create thread 10672
+2021/05/23 17:20:19 [notice] 14900#15344: exiting
+2021/05/23 17:20:19 [notice] 15144#11016: create thread 14528
+2021/05/23 17:20:19 [notice] 15144#11016: create thread 8040
+2021/05/23 17:20:19 [notice] 14900#12372: exiting
+2021/05/23 17:20:19 [notice] 14900#15132: exit
+2021/05/23 17:20:19 [notice] 14440#14444: worker process 14900 exited with code 0
+2021/05/23 17:20:27 [error] 15144#10672: *50 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/23 19:01:30 [error] 15144#10672: *79 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/index.php"
+2021/05/23 19:01:33 [error] 15144#10672: *81 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/index.php"
+2021/05/23 19:12:25 [error] 15144#10672: *83 FastCGI sent in stderr: "PHP Fatal error:  Uncaught TypeError: Return value of DB() must be an instance of PDO, none returned in D:\IPS\web-develop\lw12\src\utils\database.php:11
+Stack trace:
+#0 D:\IPS\web-develop\lw12\src\pages\save_feedback_page.php(20): DB()
+#1 D:\IPS\web-develop\lw12\src\pages\main_page.php(46): saveFeedbackPage(Array)
+#2 D:\IPS\web-develop\lw12\src\pages\main_page.php(5): handleFormMain()
+#3 D:\IPS\web-develop\lw12\web\index.php(3): mainPage()
+#4 {main}
+  thrown in D:\IPS\web-develop\lw12\src\utils\database.php on line 11" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "POST /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc", referrer: "http://lw12.loc/index.php"
+2021/05/23 19:12:25 [error] 15144#10672: *83 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/index.php"
+2021/05/23 19:14:50 [error] 15144#10672: *85 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/index.php"
+2021/05/23 19:44:15 [error] 15144#10672: *87 FastCGI sent in stderr: "PHP Notice:  Array to string conversion in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 46
+PHP Notice:  Undefined index: arivlav@list.r in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 54
+PHP Notice:  Undefined index:  in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 58" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 19:47:29 [error] 15144#10672: *90 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php on line 39" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 19:48:29 [error] 15144#10672: *90 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php:41
+Stack trace:
+#0 D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php(5): handleFormFeedback()
+#1 D:\IPS\web-develop\lw12\web\feedbacks.php(3): feedbacksListPage()
+#2 {main}
+  thrown in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php on line 41" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 19:54:33 [error] 15144#10672: *93 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php:41
+Stack trace:
+#0 D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php(5): handleFormFeedback()
+#1 D:\IPS\web-develop\lw12\web\feedbacks.php(3): feedbacksListPage()
+#2 {main}
+  thrown in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php on line 41" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 19:55:31 [error] 15144#10672: *93 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php:41
+Stack trace:
+#0 D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php(5): handleFormFeedback()
+#1 D:\IPS\web-develop\lw12\web\feedbacks.php(3): feedbacksListPage()
+#2 {main}
+  thrown in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php on line 41" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 19:56:28 [error] 15144#10672: *93 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php:42
+Stack trace:
+#0 D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php(5): handleFormFeedback()
+#1 D:\IPS\web-develop\lw12\web\feedbacks.php(3): feedbacksListPage()
+#2 {main}
+  thrown in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php on line 42" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 20:00:39 [error] 15144#10672: *97 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php:43
+Stack trace:
+#0 D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php(5): handleFormFeedback()
+#1 D:\IPS\web-develop\lw12\web\feedbacks.php(3): feedbacksListPage()
+#2 {main}
+  thrown in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php on line 43" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc", referrer: "http://lw12.loc/feedbacks.php"
+2021/05/23 20:00:48 [error] 15144#10672: *97 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php:43
+Stack trace:
+#0 D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php(5): handleFormFeedback()
+#1 D:\IPS\web-develop\lw12\web\feedbacks.php(3): feedbacksListPage()
+#2 {main}
+  thrown in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php on line 43" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 20:01:32 [error] 15144#10672: *97 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php on line 40" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 20:02:15 [error] 15144#10672: *97 FastCGI sent in stderr: "PHP Notice:  Array to string conversion in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 46
+PHP Notice:  Undefined index: arivlav@list.r in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 54
+PHP Notice:  Undefined index:  in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 58" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 20:03:12 [error] 15144#10672: *97 FastCGI sent in stderr: "PHP Notice:  Array to string conversion in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 46
+PHP Notice:  Undefined index: arivlav@list.r in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 54
+PHP Notice:  Undefined index:  in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 58" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/23 20:03:59 [error] 15144#10672: *97 FastCGI sent in stderr: "PHP Warning:  count(): Parameter must be an array or an object that implements Countable in D:\IPS\web-develop\lw12\src\pages\feedbacks_list_page.php on line 48
+PHP Notice:  Trying to access array offset on value of type bool in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 50
+PHP Notice:  Trying to access array offset on value of type bool in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 54
+PHP Notice:  Undefined index:  in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 54
+PHP Notice:  Trying to access array offset on value of type bool in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 58
+PHP Notice:  Undefined index:  in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 58
+PHP Notice:  Trying to access array offset on value of type bool in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 62" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=asda%40sfd.ru&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc", referrer: "http://lw12.loc/feedbacks.php?email=&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8"
+2021/05/23 20:06:28 [error] 15144#10672: *116 FastCGI sent in stderr: "PHP Notice:  Array to string conversion in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 46
+PHP Notice:  Undefined index: arivlav@list.r in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 54
+PHP Notice:  Undefined index:  in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 58" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc", referrer: "http://lw12.loc/feedbacks.php?email=asda%40sfd.ru&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8"
+2021/05/23 20:09:01 [error] 15144#10672: *119 FastCGI sent in stderr: "PHP Notice:  Undefined variable: file in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 42
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 42
+PHP Notice:  Undefined variable: file in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 66
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 66
+PHP Notice:  Undefined variable: file in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 66
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 66" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc", referrer: "http://lw12.loc/feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8"
+2021/05/23 20:10:07 [error] 15144#10672: *121 FastCGI sent in stderr: "PHP Notice:  Array to string conversion in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 46
+PHP Notice:  Undefined index: arivlav@list.r in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 54
+PHP Notice:  Undefined index:  in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 58
+PHP Notice:  Array to string conversion in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 62
+PHP Notice:  Undefined variable: Array in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 62
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 62
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 62" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc", referrer: "http://lw12.loc/feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8"
+2021/05/23 20:11:30 [error] 15144#10672: *123 FastCGI sent in stderr: "PHP Notice:  Undefined index:  in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 54
+PHP Notice:  Undefined index: male in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 58
+PHP Notice:  Undefined index:  in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 58
+PHP Notice:  Array to string conversion in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 62
+PHP Notice:  Undefined variable: Array in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 62
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 62
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 62" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc", referrer: "http://lw12.loc/feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8"
+2021/05/23 20:13:00 [error] 15144#10672: *125 FastCGI sent in stderr: "PHP Notice:  Undefined index:  in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 54
+PHP Notice:  Undefined index: male in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 58
+PHP Notice:  Undefined index:  in D:\IPS\web-develop\lw12\src\templates\feedbacks.tpl.php on line 58" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc", referrer: "http://lw12.loc/feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8"
+2021/05/23 20:34:49 [error] 15144#10672: *129 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET /feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8 HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc", referrer: "http://lw12.loc/feedbacks.php?email=arivlav%40list.r&send=%D0%9D%D0%B0%D0%B9%D1%82%D0%B8"
+2021/05/23 20:35:02 [notice] 14440#14444: worker process 15144 exited with code 1
+2021/05/23 20:35:02 [notice] 14440#14444: start worker process 15500
+2021/05/23 20:35:02 [notice] 15500#240: nginx/1.19.10
+2021/05/23 20:35:02 [info] 15500#240: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 20:35:02 [notice] 15500#240: create thread 4940
+2021/05/23 20:35:02 [notice] 15500#240: create thread 15828
+2021/05/23 20:35:02 [notice] 15500#240: create thread 4292
+2021/05/23 20:35:08 [notice] 14440#14444: worker process 15500 exited with code 1
+2021/05/23 20:35:08 [notice] 14440#14444: start worker process 16616
+2021/05/23 20:35:09 [notice] 16616#3380: nginx/1.19.10
+2021/05/23 20:35:09 [info] 16616#3380: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 20:35:09 [notice] 16616#3380: create thread 5804
+2021/05/23 20:35:09 [notice] 16616#3380: create thread 17696
+2021/05/23 20:35:09 [notice] 16616#3380: create thread 16068
+2021/05/23 20:35:53 [notice] 14440#14444: worker process 16616 exited with code 1
+2021/05/23 20:35:53 [notice] 14440#14444: start worker process 17672
+2021/05/23 20:35:53 [notice] 17672#14860: nginx/1.19.10
+2021/05/23 20:35:53 [info] 17672#14860: OS: 260200 build:9200, "", suite:300, type:1
+2021/05/23 20:35:53 [notice] 17672#14860: create thread 5220
+2021/05/23 20:35:53 [notice] 17672#14860: create thread 12492
+2021/05/23 20:35:53 [notice] 17672#14860: create thread 14360
+2021/05/25 10:09:28 [error] 17672#5220: *131 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.43.36, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.43.36"
+2021/05/25 10:09:35 [error] 17672#5220: *133 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.43.36, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.43.36"
+2021/05/26 10:14:53 [error] 17672#5220: *134 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.43.36, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.43.36"
+2021/05/26 10:14:59 [error] 17672#5220: *136 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.43.36, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.43.36"
+2021/05/27 20:32:24 [error] 17672#5220: *137 FastCGI sent in stderr: "PHP Notice:  Undefined index: form in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 2
+PHP Notice:  Undefined index: errors in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 3
+PHP Notice:  Undefined index: send in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 4
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 38
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 39
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 43
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 44
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 57
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 61" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "HEAD / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:32:27 [error] 17672#5220: *137 FastCGI sent in stderr: "PHP Notice:  Undefined index: form in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 2
+PHP Notice:  Undefined index: errors in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 3
+PHP Notice:  Undefined index: send in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 4
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 38
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 39
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 43
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 44
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 57
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 61" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:32:27 [error] 17672#5220: *137 FastCGI sent in stderr: "PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 67
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 68" while reading upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:32:28 [error] 17672#5220: *137 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/27 20:39:23 [error] 17672#5220: *141 FastCGI sent in stderr: "PHP Notice:  Undefined index: form in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 3
+PHP Notice:  Undefined index: errors in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 4
+PHP Notice:  Undefined index: send in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 5
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 17
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 17
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 17
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 17
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 17
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 39
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 40
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 44
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 45
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 58
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 62" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:39:23 [error] 17672#5220: *141 FastCGI sent in stderr: "PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 68
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 69" while reading upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:42:12 [error] 17672#5220: *144 FastCGI sent in stderr: "PHP Notice:  Undefined index: form in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 2
+PHP Notice:  Undefined index: errors in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 3
+PHP Notice:  Undefined index: send in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 4
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 39
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 43
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 44
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 57
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 61" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:42:12 [error] 17672#5220: *144 FastCGI sent in stderr: "PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 67
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 68" while reading upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:42:41 [error] 17672#5220: *144 FastCGI sent in stderr: "PHP Notice:  Undefined index: form in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 2
+PHP Notice:  Undefined index: errors in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 3
+PHP Notice:  Undefined index: send in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 4
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 39
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 44
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 57
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 61" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:42:41 [error] 17672#5220: *144 FastCGI sent in stderr: "PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 67
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 68" while reading upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:43:49 [error] 17672#5220: *148 FastCGI sent in stderr: "PHP Notice:  Undefined index: form in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 2
+PHP Notice:  Undefined index: errors in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 3
+PHP Notice:  Undefined index: send in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 4
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 39
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 44
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 67
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 68" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:43:56 [error] 17672#5220: *148 FastCGI sent in stderr: "PHP Notice:  Undefined index: form in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 2
+PHP Notice:  Undefined index: errors in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 3
+PHP Notice:  Undefined index: send in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 4
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 39
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 44
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 67
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 68" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:44:46 [error] 17672#5220: *148 FastCGI sent in stderr: "PHP Notice:  Undefined index: form in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 2
+PHP Notice:  Undefined index: errors in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 3
+PHP Notice:  Undefined index: send in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 4
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 39
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 44
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 68" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:44:54 [error] 17672#5220: *148 FastCGI sent in stderr: "PHP Notice:  Undefined index: form in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 2
+PHP Notice:  Undefined index: errors in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 3
+PHP Notice:  Undefined index: send in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 4
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 39
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 44
+PHP Notice:  Trying to access array offset on value of type null in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 68" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:45:26 [error] 17672#5220: *148 FastCGI sent in stderr: "PHP Notice:  Undefined index: country in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Undefined index: country in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Undefined index: country in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Undefined index: country in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Undefined index: country in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 16
+PHP Notice:  Undefined index: name in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 39
+PHP Notice:  Undefined index: email in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 44
+PHP Notice:  Undefined index: message in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 68" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:45:52 [error] 17672#5220: *148 FastCGI sent in stderr: "PHP Notice:  Undefined index: name in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 39
+PHP Notice:  Undefined index: email in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 44
+PHP Notice:  Undefined index: message in D:\IPS\web-develop\lw12\src\templates\main.tpl.php on line 68" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 20:58:57 [error] 17672#5220: *160 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in D:\IPS\web-develop\lw12\src\pages\save_feedback_page.php:13
+Stack trace:
+#0 D:\IPS\web-develop\lw12\src\pages\main_page.php(46): saveFeedbackPage(Array)
+#1 D:\IPS\web-develop\lw12\src\pages\main_page.php(5): handleFormMain()
+#2 D:\IPS\web-develop\lw12\web\index.php(3): mainPage()
+#3 {main}
+  thrown in D:\IPS\web-develop\lw12\src\pages\save_feedback_page.php on line 13" while reading response header from upstream, client: 127.0.0.1, server: lw12.loc, request: "POST /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/27 21:08:36 [error] 17672#5220: *167 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: lw12.loc, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9001", host: "lw12.loc"
+2021/05/27 21:17:16 [error] 17672#5220: *180 CreateFile() "D:\IPS\web-develop\lw12\web/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: lw12.loc, request: "GET /favicon.ico HTTP/1.1", host: "lw12.loc", referrer: "http://lw12.loc/"
+2021/05/29 14:30:24 [error] 17672#5220: *212 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/05/29 14:30:30 [error] 17672#5220: *214 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/05/30 14:34:25 [error] 17672#5220: *215 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/05/30 14:34:31 [error] 17672#5220: *217 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/05/31 14:34:33 [error] 17672#5220: *218 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/05/31 14:34:39 [error] 17672#5220: *220 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/06/01 15:09:39 [error] 17672#5220: *221 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/06/01 15:09:45 [error] 17672#5220: *223 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/06/02 15:47:12 [error] 17672#5220: *224 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/06/02 15:47:18 [error] 17672#5220: *226 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/06/03 21:02:32 [error] 17672#5220: *227 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/06/03 21:02:38 [error] 17672#5220: *229 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/06/04 22:27:44 [error] 17672#5220: *230 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/06/04 22:27:50 [error] 17672#5220: *232 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/06/05 23:13:20 [error] 17672#5220: *233 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/06/05 23:13:26 [error] 17672#5220: *235 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/06/08 14:13:22 [error] 17672#5220: *236 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/06/08 14:13:29 [error] 17672#5220: *238 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/06/09 19:38:10 [error] 17672#5220: *239 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/06/09 19:38:16 [error] 17672#5220: *241 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/06/11 11:42:38 [error] 17672#5220: *242 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/06/11 11:42:44 [error] 17672#5220: *244 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/06/12 11:43:41 [error] 17672#5220: *245 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/06/12 11:43:48 [error] 17672#5220: *247 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/06/13 11:34:54 [error] 17672#5220: *248 CreateFile() "D:\IPS\web-develop\nginx/html/new_task" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "POST /new_task?description=%D0%9F%D1%8F%D1%82%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0&status=0 HTTP/1.1", host: "localhost"
+2021/06/13 11:35:13 [error] 17672#5220: *248 CreateFile() "D:\IPS\web-develop\nginx/html/new_task" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "POST /new_task?description=%D0%9F%D1%8F%D1%82%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0&status=0 HTTP/1.1", host: "localhost"
+2021/06/13 11:35:48 [error] 17672#5220: *248 CreateFile() "D:\IPS\web-develop\nginx/html/api/new_task" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/new_task?description=%D0%9F%D1%8F%D1%82%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0&status=0 HTTP/1.1", host: "localhost"
+2021/06/13 11:36:19 [error] 17672#5220: *248 CreateFile() "D:\IPS\web-develop\nginx/html/api/new_task" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/new_task?description=%D0%9F%D1%8F%D1%82%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0 HTTP/1.1", host: "localhost"
+2021/06/13 11:36:59 [error] 17672#5220: *248 CreateFile() "D:\IPS\web-develop\nginx/html/api/new_task" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/new_task?description=%D0%9F%D1%8F%D1%82%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0 HTTP/1.1", host: "localhost"
+2021/06/13 11:38:40 [error] 17672#5220: *249 CreateFile() "D:\IPS\web-develop\nginx/html/api/new_task" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/new_task?description=%D0%9F%D1%8F%D1%82%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0 HTTP/1.1", host: "localhost"
+2021/06/13 12:29:21 [error] 17672#5220: *250 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 192.168.0.16, server: localhost, request: "GET / HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "192.168.0.16"
+2021/06/13 12:29:27 [error] 17672#5220: *252 "D:\IPS\web-develop\nginx/html/HNAP1/index.php" is not found (3: The system cannot find the path specified), client: 192.168.0.16, server: localhost, request: "GET /HNAP1/ HTTP/1.1", host: "192.168.0.16"
+2021/06/13 12:30:04 [error] 17672#5220: *253 CreateFile() "D:\IPS\web-develop\nginx/html/api/new_task" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /api/new_task?description=%D0%9F%D1%8F%D1%82%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0 HTTP/1.1", host: "localhost"

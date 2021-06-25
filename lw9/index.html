@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="description" content="Страничка обо мне" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Лабораторная работа №9</title>
+  <link href="css/style.css" rel="stylesheet" />
+  <script src="js/main.js" defer></script>
+</head>
+<body>
+  <header>
+    <nav class="top_menu">
+      <ul class="top_menu__list">
+        <li>
+          <a href="about_me.html" class="top_menu__link top_menu__link__active">
+            <span class="top_menu__icon_me  top_menu__icon__active"><img src="images/icons/about_me_icon.png" alt="about_me"></span>Обо мне
+          </a>
+        </li>
+        <li>
+          <a href="my_hobby.html" class="top_menu__link" onmouseover="this.children[0].classList.add('top_menu__icon__active');" onmouseout="this.children[0].classList.remove('top_menu__icon__active');">
+            <span class="top_menu__icon_hobbie"><img src="images/icons/hobby_icon.png" alt="hobby"></span>
+            Мое хобби
+          </a>
+        </li>
+        <li>
+          <a href="favorite_films.html" class="top_menu__link" onmouseover="this.children[0].classList.add('top_menu__icon__active');" onmouseout="this.children[0].classList.remove('top_menu__icon__active');">
+            <span class="top_menu__icon_film"><img src="images/icons/video_icon.png"  alt="video"></span>
+            Любимые фильмы
+          </a>
+        </li>
+      </ul>
+    </nav>    
+  </header>
+  <div class="about_me">
+    <div class="about_me__sidebar">
+      <img src="images/photo.png" alt="Фото для профайла" class="sidebar__photo"/>
+      <h2 class="sidebar__title">Любимые писатели:</h2>
+      <ul class="sidebar__marker-list">
+        <li>Айзек Азимов</li>
+        <li>Говард Лавкрафт</li>
+        <li>Дмитрий Глуховский</li>
+        <li>Чак Паланик</li>
+      </ul>
+      <h2 class="sidebar__title sidebar__title__films">Любимые фильмы:</h2>
+      <ol class="sidebar__number-list">
+        <li>Шоу Трумэна</li>
+        <li>Малхолланд Драйв</li>
+        <li>Семь жизней</li>
+        <li>Гравитация</li>
+      </ol>
+    </div>
+    <div class="about_me__epigraf">
+      <p class="about_me__citation">
+        Мы берем на себя много, потому что
+        <br />
+        мало чего боимся
+      </p>
+      <p class="about_me__signa">— Том Демарко. Deadline</p>
+    </div> 
+    <div class="introduce">
+      <h1 class="introduce__title">Jane Doe</h1>
+      <p class="introduce__description">
+        В 1930-е годы прошлого века физик Джордж Гамоу из университета штата Колорадо начал публиковать мини&#8209;сериал рассказов о неком мистере Томпкинсе, 
+        банковском клерке средних лет. Мистер Томпкинс, как явствовало из этих историй, интересовался современной наукой.
+      </p>
+      <h2 class="introduce__hobbies__title">Мое хобби</h2>
+      <p class="introduce__hobbies__description">
+        Он регулярно посещал вечерние лекции местного профессора и, разумеется, всегда засыпал на самом интересном месте. 
+        <br />
+        А когда просыпался, то обнаруживал себя в каком-нибудь параллельном мире, где один из основных законов физики действовал 
+        не так, как в его мире.
+      </p>
+      <a href="#write_me" class="write_me">Напиши мне<span class="write_me__arrow">  &#8594;</span></a>
+    </div>
+  </div>   
+  <div class="clear"></div>
+  <div class="movies">
+    <div><button class="movies__list__btn movies__list__btn_left"><</button></div>
+    <div class="movies__inside">  
+      <div>
+        <h2 class="movies__title">Любимые фильмы</h2>
+      </div>
+      <div class="movies__list">
+        <div class="movies__list__film">
+          <img src="images/movies/escape.png" alt="Побег из Шоушенка" class="movies__list__film_photo">
+          <h3 class="movies__list__film__title">Побег из Шоушенка</h3>
+          <p class="movies__list__film__description">
+            Успешный банкир Энди Дюфрейн обвинен в убийстве собственной жены и ее любовника. 
+            Оказавшись в тюрьме под названием Шоушенк, он сталкивается с жестокостью и беззаконием, царящими по обе стороны решетки. 
+            Каждый, кто попадает в эти стены, становится их рабом до конца жизни. 
+            Но Энди, вооруженный живым умом и доброй душой, отказывается мириться с приговором судьбы и 
+            начинает разрабатывать невероятно дерзкий план своего освобождения.
+          </p>
+        </div>
+        <div class="movies__list__film">
+          <img src="images/movies/narkoz.png" alt="Наркоз" class="movies__list__film_photo">
+          <h3 class="movies__list__film__title">Наркоз</h3>
+          <p class="movies__list__film__description">
+            Клай Бересфорд вынужден лечь под нож. Однако в процессе операции на сердце он неожиданно приходит в себя. Находясь в 
+            парализованном состоянии, будучи не в силах пошевелить ни рукой, ни ногой, он, тем не менее, чувствует каждое касание 
+            скальпеля к своей плоти…
+          </p>
+        </div>
+        <div class="movies__list__film">
+          <img src="images/movies/astral.png" alt="Астрал" class="movies__list__film_photo">
+          <h3 class="movies__list__film__title">Астрал</h3>
+          <p class="movies__list__film__description">
+            Джош и Рене переезжают со своими детьми в новый дом, но не успевают толком распаковать вещи, 
+            как начинаются странные события. Необъяснимо перемещаются предметы, в детской звучат странные звуки… 
+            Но в настоящий ужас приходят родители, когда их десятилетний сын Далтон впадает в кому. 
+            Все усилия врачей в больнице помочь мальчику безуспешны.
+          </p>
+        </div>
+        <div class="movies__list__film">
+          <img src="images/movies/gravitation.png" alt="Гравитация" class="movies__list__film_photo">
+          <h3 class="movies__list__film__title">Гравитация</h3>
+          <p class="movies__list__film__description">
+            Доктор Райан Стоун, блестящий специалист в области медицинского инжиниринга, отправляется в свою первую 
+            космическую миссию под командованием ветерана астронавтики Мэтта Ковальски, для которого этот полет — последний 
+            перед отставкой. Но во время, казалось бы, рутинной работы за бортом случается катастрофа. Шаттл уничтожен, а Стоун 
+            и Ковальски остаются совершенно одни; они находятся в связке друг с другом, и все, что они могут, — это двигаться по орбите в 
+            абсолютно черном пространстве без всякой связи с Землей и какой-либо надежды на спасение.
+          </p>
+        </div>
+        <div class="movies__list__film">
+          <img src="images/movies/telohranitelzheny.webp" alt="Телохранитель киллера" class="movies__list__film_photo">
+          <h3 class="movies__list__film__title">Телохранитель киллера</h3>
+          <p class="movies__list__film__description">
+            Жизнь здорово потрепала нервишки Майкла Брайса, так что с карьерой телохранителя он решил завязать. 
+            Психотерапевт посоветовал ему отправиться на тихий курорт, вооружившись лишь книжкой и плейлистом расслабляющей музыки. 
+            Но и здесь его находит самая безумная в мире парочка: киллер мирового уровня и настоящий магнит неприятностей Дариус Кинкейд и его супруга Соня — 
+            буйная дамочка не робкого десятка. Преступный синдикат устроил на них охоту, и Майклу, при всем желании остаться в стороне,
+            придется вернуться к старому ремеслу и снова стать телохранителем. На этот раз — жены киллера!
+          </p>
+        </div>
+        <div class="movies__list__film">
+          <img src="images/movies/luka.webp" alt="Лука" class="movies__list__film_photo">
+          <h3 class="movies__list__film__title">Лука</h3>
+          <p class="movies__list__film__description">
+            Незабываемые каникулы, в которых есть место и домашней пасте, и мороженому, и бесконечным поездкам на мопеде мальчик по имени Лука 
+            проводит в красивом приморском городке, расположенном на итальянской Ривьере. Ни одно приключение Луки не обходится без участия его 
+            нового лучшего друга, и беззаботность отдыха омрачает только лишь тот факт, 
+            что на самом деле в облике мальчика скрывается морской монстр из глубин лагуны, на берегу которой стоит городок.
+          </p>
+        </div>
+        <div class="movies__list__film">
+          <img src="images/movies/kruela.webp" alt="Круэлла" class="movies__list__film_photo">
+          <h3 class="movies__list__film__title">Круэлла</h3>
+          <p class="movies__list__film__description">
+            Лондон 70-х годов охвачен зарождающейся культурой панк-рока. Невероятно одаренная мошенница по имени Эстелла решает сделать себе имя в мире моды. 
+            Её лучшие друзья — парочка юных карманников, которые ценят страсть Эстеллы к приключениям и надеются вместе с ней отвоевать себе место под солнцем 
+            на улицах британской столицы. В один прекрасный день модное чутье Эстеллы привлекает внимание шикарной и пугающе высокомерной баронессы фон Хельман.
+          </p>
+        </div>
+        <div class="movies__list__film">
+          <img src="images/movies/rokdog2.webp" alt="Рок Дог 2" class="movies__list__film_photo">
+          <h3 class="movies__list__film__title">Рок Дог 2</h3>
+          <p class="movies__list__film__description">
+            Знаменитый пес Боуди и его веселая рок-группа возвращаются. Музыканты уже представили миру свои песни, но останавливаться на достигнутом не собираются. 
+            Ребята готовы к грандиозному турне, в котором обретут настоящую славу. Но, как оказалось, 
+            у популярности есть и обратная сторона. Смогут ли друзья остаться самими собой, когда их имена будут на устах всего мира?
+          </p>
+        </div>
+        <div class="movies__list__film">
+          <img src="images/movies/forza9.webp" alt="Форсаж 9" class="movies__list__film_photo">
+          <h3 class="movies__list__film__title">Форсаж 9</h3>
+          <p class="movies__list__film__description">
+            Доминик Торетто ведет спокойную жизнь вместе с Летти и своим сыном Брайаном, однако, они знают, что новая опасность всегда где-то рядом. 
+            В этот раз Доминику придется встретиться с призраками прошлого, если он хочет спасти самых близких. Команда снова собирается вместе, чтобы 
+            предотвратить дерзкий план по захвату мира, который придумал самый опасный преступник и безбашенный водитель из всех, с кем они сталкивались ранее. 
+            Ситуация усложняется тем, что этот человек — брат Доминика Джейкоб, которого много лет назад изгнали из семьи.
+          </p>
+        </div>
+        <div class="movies__list__film">
+          <img src="images/movies/bender.webp" alt="Бендер: Начало" class="movies__list__film_photo">
+          <h3 class="movies__list__film__title">Бендер: Начало</h3>
+          <p class="movies__list__film__description">
+            1919 год. Судьба сталкивает юного идеалиста Осю с турецко-подданным аферистом Ибрагимом Бендером. И никогда бы честный Ося не связался с 
+            таким бессовестным и хитроумным мошенником, если бы их не объединила невероятно опасная авантюра — охота за царской реликвией, драгоценным жезлом, 
+            заполучить который также не прочь местные бандиты и белые офицеры. В череде головокружительных приключений Ося вынужден учиться у Ибрагима обаятельной лести, 
+            деликатному обману, пленительному шантажу и… грубой силе. И все это — будучи влюбленным в самую чистую девушку города! И, кажется, еще в одну — роковую иностранную 
+            красотку…
+            <br />
+            Так начинает складываться портрет легендарного великого комбинатора и любимца женщин Остапа Бендера-Задунайского.
+          </p>
+        </div>
+        <div class="movies__list__film">
+          <img src="images/movies/telohranitelzheny.webp" alt="Телохранитель киллера" class="movies__list__film_photo">
+          <h3 class="movies__list__film__title">Телохранитель киллера</h3>
+          <p class="movies__list__film__description">
+            Жизнь здорово потрепала нервишки Майкла Брайса, так что с карьерой телохранителя он решил завязать. 
+            Психотерапевт посоветовал ему отправиться на тихий курорт, вооружившись лишь книжкой и плейлистом расслабляющей музыки. 
+            Но и здесь его находит самая безумная в мире парочка: киллер мирового уровня и настоящий магнит неприятностей Дариус Кинкейд и его супруга Соня — 
+            буйная дамочка не робкого десятка. Преступный синдикат устроил на них охоту, и Майклу, при всем желании остаться в стороне,
+            придется вернуться к старому ремеслу и снова стать телохранителем. На этот раз — жены киллера!
+          </p>
+        </div>
+      </div>
+      <div class="movies__btn_section">
+        <button class="movies__btn">Все фильмы</button>
+      </div>  
+    </div>
+    <div><button class="movies__list__btn movies__list__btn_right">&gt;</button></div>        
+  </div>
+  <div class="clear"></div>
+  <div class="form" id="write_me">
+    <div class="form__inside">  
+      <form>
+        <div class="form__title__section">
+          <h2 class="form__title">НАПИШИ МНЕ</h2>
+        </div>  
+        <div class="form__section">  
+          <label for="name" class="form__label">Ваше имя <span class="form__alert">*</span></label>
+          <input type="text" class="form__input_text"  id="name" name="name">
+        </div>  
+        <div class="form__section">  
+          <label for="email" class="form__label">Ваш email <span class="form__alert">*</span></label>
+          <input type="email" class="form__input_email" id="email" name="email">
+        </div>  
+        <div class="form__section">  
+          <label for="country" class="form__label">Откуда вы?</label>
+          <select class="form__select" id="country" name="country">
+            <option>Россия</option>
+            <option>Германия</option>
+            <option>Франция</option>
+            <option>Венгрия</option>
+          </select>
+        </div>  
+        <div class="form__section_label_radio">  
+          <label class="form__label">Ваш пол</label> 
+        </div>
+        <div class="form__section_radio">  
+          <label for="male"  class="form__label_radio">
+            <input type="radio" name="gender" value="male" id="male">
+            Мужской
+          </label>
+          <label for="female" class="form__label_radio">
+            <input type="radio" name="gender" value="female" id="female">
+            Женский
+          </label>
+        </div>  
+        <div class="form__section">  
+          <label for="message" class="form__label">Ваше сообщение  <span class="form__alert">*</span></label>
+          <textarea  id="message" name="message" rows="10"  class="form__textarea"></textarea>
+        </div>
+        <div class="form__section_button">
+          <button class="form__btn">Отправить</button>
+        </div>    
+      </form>
+    </div>    
+  </div>  
+  <footer>
+    <p class="copyright">© 2006-2018 Поволжский государственный технологический университет, ФГБОУ ВО «ПГТУ»</p>
+  </footer>    
+</body>
+</html>  

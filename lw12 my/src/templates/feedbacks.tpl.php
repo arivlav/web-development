@@ -1,7 +1,7 @@
 <?php
 $form = $args['data']['form'];
 $errors = $args['data']['errors'];
-$file = $args['data']['file'];
+$message = $args['data']['message'];
 $country = [
     'ru' => 'Россия', 
     'de' => 'Германия', 
@@ -39,31 +39,31 @@ $male = [
         </div>    
       </form>
       <div class="result">
-        <?php if ($file['found']) {?>
+        <?php if ($message['found']) {?>
           <table>
             <tr>
               <td><b>Имя:</b></td>
-              <td><?php echo $file['content'][0];?></td>
+              <td><?php echo $message['content']['name'];?></td>
             </tr>
             <tr>
               <td><b>email:</b></td>
-              <td><?php echo $file['content'][1];?></td>
+              <td><?php echo $message['content']['email'];?></td>
             </tr>
             <tr>
               <td><b>Страна:</b></td>
-              <td><?php echo $country[$file['content'][2]];?></td>
+              <td><?php if ($message['content']['country'] != '') echo $country[$message['content']['country']];?></td>
             </tr>
             <tr>
               <td><b>Пол:</b></td>
-              <td><?php if ($file['content'][3]) echo $male[$file['content'][3]];?></td>
+              <td><?php if ($message['content']['gender'] != '')  echo $male[$message['content']['gender']];?></td>
             </tr>  
             <tr>
               <td><b>Сообщение:</b></td>
-              <td><?php echo $file['content'][4];?></td>
+              <td><?php echo $message['content']['message_text'];?></td>
             </tr>
           </table  
         <?php } ?>
-        <?php if (!$file['found'] && $file['status'] != '') echo 'Ничего не найдено!';?> 
+        <?php if (!$message['found'] && $message['status'] != '') echo 'Ничего не найдено!';?> 
       </div>
     </div>    
   </div>

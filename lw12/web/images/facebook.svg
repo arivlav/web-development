@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 20" width="10" height="20">
+	<style>
+		svg { cursor: pointer }
+		svg:hover .shp0{ fill: #e74c3c }
+		tspan { white-space:pre }
+		.shp0 { fill: #999999 }
+	</style>
+	<g id="Footer">
+		<g id="Icons">
+			<g id="Social Icon">
+				<path id="facebook" class="shp0" d="M7.81 3.32L9.96 3.32L9.96 0L7.2 0L7.2 0.01C3.55 0.14 2.57 2.2 2.5 4.37L2.5 4.37L2.5 6.66L0.01 6.66L0.01 9.98L2.5 9.98L2.5 19.99L6.63 19.99L6.63 9.98L9.14 9.98L9.75 6.66L6.63 6.66L6.63 4.61C6.63 3.88 7.12 3.32 7.81 3.32Z" />
+			</g>
+		</g>
+	</g>
+</svg>

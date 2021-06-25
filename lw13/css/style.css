@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+
+html
+{
+    font-family: "Open Sans", sans-serif;
+    color: #848484;
+    width: 1920px;
+}
+
+body
+{
+    margin: 0 0 0 0;
+}
+
+h1
+{
+    font-size: 36px;
+    color: #333;
+    line-height: 1.167;
+    font-weight: 100;
+    margin: 48px 0 0 0;
+    text-align: center;
+}
+
+.row
+{
+    display:flex;
+    justify-content: center;
+}

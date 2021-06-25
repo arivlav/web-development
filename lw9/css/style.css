@@ -1,0 +1,513 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+
+html
+{
+    font-family: "Open Sans", sans-serif;
+    color: #848484;
+    /* width: 1920px; */
+}
+
+body
+{
+    margin: 0 0 0 0;
+}
+
+header
+{
+    display:flex;
+    align-items: center;
+}
+
+.top_menu
+{
+    margin: 0 0 0 440px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.top_menu__list
+{
+    display: flex;
+    list-style: none;
+}
+
+.top_menu__list li
+{
+    margin: 0 0 0 0;
+}
+
+.top_menu__link
+{
+    font-size: 19px;
+    font-family: "Georgia";
+    color: #333333;
+    line-height: 1.684;  
+    text-decoration: none;
+    padding: 15px 21px 14px 14px;
+}
+
+.top_menu__icon_me
+{
+    margin: 0 8px 0 8px;
+}
+
+.top_menu__icon_hobbie
+{
+    margin: 0 7px 0 7px;
+}
+
+.top_menu__icon_film
+{
+    margin: 0 7px 0 4px;
+}
+
+.top_menu__icon
+{
+    margin: 0 8px 0 8px;
+}
+
+.top_menu__icon__active,
+.top_menu__icon:hover
+{
+    filter: brightness(4);
+}
+
+.top_menu__link:hover, 
+.top_menu__link__active 
+{
+    background-color: #15a98c;
+    color: #f5f5f5;
+}
+
+.about_me 
+{
+    background-image: url(../images/top.png);
+    background-repeat: no-repeat;
+    padding: 165px 0 0 480px;
+}
+
+.about_me__sidebar 
+{
+    float: left;
+    margin: 45px 0 0 0;
+}
+
+.about_me__epigraf 
+{
+    padding: 39px 0 0 393px;
+    color: #fff;
+    background-image: url('../images/quotes.png');
+    background-repeat: no-repeat;
+    background-position: 332px 0px;
+}
+
+.about_me__citation 
+{
+    font-family: Georgia;
+    font-size: 28px;
+    line-height: 42px;
+    font-weight: 400;
+    font-style: italic;
+    margin: 30px 0 0px 0;
+}
+
+.about_me__signa 
+{
+    font-size: 16px;
+    line-height: 42px;
+    font-weight: 600;
+    letter-spacing: .3px;
+    margin: 2px 0 0 0;
+    padding: 0 0 0 2px;
+}
+
+.sidebar__photo 
+{
+    margin: 0px 0 18px 0;
+}
+
+.sidebar__title
+{
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 600;
+    letter-spacing: 0.6px;
+    color: #15a98c;
+    margin: 21px 0 15px 0;
+}
+
+.sidebar__title__films
+{
+    margin: 21px 0 14px 0;
+}
+
+.introduce 
+{
+    margin: 84px 0 0 389px;
+    width: 560px;
+}
+
+.introduce__description,
+.introduce__hobbies__description,
+.sidebar__marker-list,
+.sidebar__number-list
+{
+    font-family: Georgia;
+    font-size: 19px;
+    line-height: 32px;
+    font-weight: 400;
+    color: #555555;
+}
+
+.introduce__description
+{
+    margin: 43px 0 43px 2px;
+}
+
+.sidebar__marker-list 
+{
+    padding: 0px 0 20px 22px;
+    margin: 0 0 0 0px;
+}
+
+.sidebar__marker-list li,
+.sidebar__number-list li 
+{
+    margin: 0 0 4px 0;
+}
+
+.sidebar__number-list 
+{
+    padding: 0 0 20px 9px;
+    margin: 0 0 0 10px;
+}
+ 
+.introduce__hobbies__description
+{
+    margin: 0 0 41px 0;
+}
+    
+.introduce__title, 
+.introduce__hobbies__title
+{
+    line-height: 42px;
+    color: #333333;
+}
+
+.introduce__title 
+{
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    margin: 0 0 9px 5px;
+}
+
+.introduce__title::after
+{
+    display: block;
+    content: '';
+    background-color: #45c3aa;
+    height: 6px;
+    width: 60px;
+    border-radius: 3px; 
+    margin: 31px 0 0 0;
+}
+
+.introduce__hobbies__title 
+{
+    font-size: 36px;
+    font-weight: 400;
+    margin: 0px 0px 14px 0;
+}
+
+.write_me 
+{
+    font-family: Georgia;
+    font-size: 19px;
+    line-height: 32px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #45c3aa;
+    border-bottom: 1px solid;
+}
+
+.write_me__arrow
+{
+    border-bottom: 1px solid #fff; 
+}
+
+.clear
+{
+    clear: both;
+}
+
+.movies 
+{
+    background-color: #f9f9f9;
+    margin: 57px 0 0 0;
+    display: flex;
+    justify-content: center;
+}
+
+.movies__inside 
+{
+    margin: 35px 0 0 0;
+    padding: 0 0 0 0;
+}
+
+.movies__list
+{
+    display: flex;
+    justify-content: center;
+    margin: 33px 0 0 0;
+    max-width: 1200px;
+}
+
+.movies__list__film {
+    max-width: 289px;
+    width: 289px;
+    margin: 0 6px 0 10px;
+    flex-basis: 289px;
+}
+
+.movies__title 
+{
+    line-height: 42px;
+    color: #333333;
+    font-size: 36px;
+    font-weight: 400;
+    margin: 0px 0px 24px 11px;
+}
+
+.movies__list__film__title
+{
+    color: #333333;
+    font-size: 22px;
+    line-height: 1.455;
+    font-weight: bold;
+    margin: 19px 0 0 0; 
+    letter-spacing: 0.8px;    
+}
+
+.movies__list__film_photo
+{
+    width: 100%;
+    min-height: 189px;
+    border-radius: 5px;
+}
+
+.movies__list__btn {
+    color: #fff;
+    background: #15A98C;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    border: 0;
+    font-size: 37px;
+    text-align: center;
+    margin: 170px 0px 0px 5px;
+    cursor: pointer;
+    padding: 0px 5px 9px 0;
+}
+
+.movies__list__btn_left {
+    padding: 0px 4px 7px 0px;
+}
+
+.movies__list__btn_right {
+    padding: 0px 0px 7px 5px;
+}
+
+.movies__list__film__description
+{
+    font-family: "Georgia";
+    color: #333333;
+    font-size: 16px;
+    line-height: 1.75;
+    margin: 18px 0 0 0;         
+}
+
+.movies__btn_section
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 53px 21px 58px 0;
+}
+
+.movies__btn,
+.form__btn
+{
+    font-family: "Georgia";
+    font-size: 19px;
+    color: #fff;
+    background-color: #15a98c;
+    width: 222px;
+    height: 50px;
+    border-radius: 4px;
+    border: 0;
+}
+
+.movies__btn:hover,
+.form__btn:hover
+{
+    background-color: #098d72;
+}
+
+.form
+{
+    display:flex;
+    justify-content: center;
+}
+
+.form_inside
+{
+    display:flex;
+    justify-content: center;
+}
+
+.form__title
+{
+    font-size: 36px;
+    color: #333;
+    line-height: 1.167;
+    font-weight: 100;
+    margin: 48px 0 0 0;
+    vertical-align: middle;     
+}
+
+.form__title::before,
+.form__title::after
+{
+    display: inline-block;
+    content: '';
+    background-color: #c4c4c4;
+    height: 1px;
+    width: 200px;
+    vertical-align: middle;     
+}
+
+.form__title::before
+{
+    margin: 0 20px 8px 0;    
+}
+
+.form__title::after
+{
+    margin: 0 0 8px 20px;    
+}
+
+.form__title__section
+{
+    margin: 0px 0 66px 0px;
+}
+
+.form__section
+{
+    width: 534px;
+    margin: 2px 0 24px 77px;
+}
+
+.form__section_button
+{
+    margin: 45px 0 0 77px;
+}
+
+.form__input_text,
+.form__input_email,
+.form__textarea,
+.form__select
+{
+    width: 100%;
+    border:#c4c4c4 solid 2px;
+    border-radius: 2px;   
+}
+
+.form__input_text:hover,
+.form__input_email:hover,
+.form__textarea:hover,
+.form__select:hover
+{
+    border-color: #15a98c;
+}
+
+.form__input_text,
+.form__input_email
+{
+    height: 45px;
+    margin: 3px 0 0 0;
+    font-size: 18px;
+    color: #c4c4c4; 
+    font-weight: 200;
+}
+
+.form__textarea
+{
+    margin: 2px 0 0 0;
+    height: 143px;
+}
+
+.form__select
+{
+    height: 50px;
+    width: 540px;
+    font-size: 18px;
+    appearance: none;
+    background-image: url("../images/icons/arrow_down.png");
+    background-position: 499px 18px;
+    background-repeat: no-repeat;
+    color: #c4c4c4; 
+    font-weight: 200;
+    margin: 5px 0 0 0;  
+    padding: 0px 0px 2px 17px;  
+}
+
+.form__section_label_radio
+{
+    width: 534px;
+    margin: 40px 0 0px 77px;
+}
+
+.form__section_radio
+{
+    width: 534px;
+    margin: 6px 0 38px 42px;
+}
+
+.form__label
+{
+    font-size: 20px;
+    color: #333;
+    line-height: 1.6; 
+    margin: 0 0 0 0; 
+    width: 100%;    
+}
+
+.form__label_radio
+{
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+    margin: 0 0 0 31px;      
+}
+
+.form__alert{
+    color: #ee0707;
+}
+
+footer
+{
+    background-color: #f5f5f5;
+    color: #333;
+    font-size: 16px;
+    font-family: "Georgia";
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 0 0;
+}
+
+.copyright
+{
+    margin: 0 0 0 0;
+    padding: 23px 0 28px 0;
+}

@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+
+html
+{
+    font-family: "Open Sans", sans-serif;
+    color: #848484;
+    width: 1920px;
+}
+
+body
+{
+    margin: 0 0 0 0;
+}
+
+.form__btn
+{
+    font-family: "Georgia";
+    font-size: 19px;
+    color: #fff;
+    background-color: #15a98c;
+    width: 222px;
+    height: 50px;
+    border-radius: 4px;
+    border: 0;
+}
+
+.form__btn:hover
+{
+    background-color: #098d72;
+}
+
+.form
+{
+    display:flex;
+    justify-content: center;
+}
+
+.form_inside
+{
+    display:flex;
+    justify-content: center;
+}
+
+.form__title
+{
+    font-size: 36px;
+    color: #333;
+    line-height: 1.167;
+    font-weight: 100;
+    margin: 48px 0 0 0;
+    vertical-align: middle;     
+}
+
+.form__title::before,
+.form__title::after
+{
+    display: inline-block;
+    content: '';
+    background-color: #c4c4c4;
+    height: 1px;
+    width: 200px;
+    vertical-align: middle;     
+}
+
+.form__title::before
+{
+    margin: 0 20px 8px 0;    
+}
+
+.form__title::after
+{
+    margin: 0 0 8px 20px;    
+}
+
+.form__title__section
+{
+    margin: 0px 0 66px 0px;
+}
+
+.form__section
+{
+    width: 534px;
+    margin: 2px 0 24px 77px;
+}
+
+.form__section__send
+{
+    display: flex;
+    margin: 45px 0 24px 77px;
+}
+
+.form__section_button
+{
+    margin: 0 0 0 0;
+}
+
+.form__input_text,
+.form__input_email,
+.form__textarea,
+.form__select
+{
+    width: 100%;
+    border:#c4c4c4 solid 2px;
+    border-radius: 2px;   
+}
+
+.form__input_text:hover,
+.form__input_email:hover,
+.form__textarea:hover,
+.form__select:hover,
+.form__input_text:focus,
+.form__input_email:focus,
+.form__textarea:focus,
+.form__select:focus
+{
+    border-color: #15a98c;
+    outline: none;
+}
+
+.form__input_text,
+.form__input_email
+{
+    height: 45px;
+    margin: 3px 0 0 0;
+}
+
+.form__textarea
+{
+    margin: 2px 0 0 0;
+    height: 143px;
+}
+
+.form__select
+{
+    height: 50px;
+    width: 540px;
+    font-size: 18px;
+    appearance: none;
+    background-image: url("../images/icons/arrow_down.png");
+    background-position: 499px 18px;
+    background-repeat: no-repeat;
+    color: #c4c4c4; 
+    font-weight: 200;
+    margin: 5px 0 0 0;  
+    padding: 0px 0px 2px 17px;  
+}
+
+.form__section_label_radio
+{
+    width: 534px;
+    margin: 40px 0 0px 77px;
+}
+
+.form__section_radio
+{
+    width: 534px;
+    margin: 6px 0 38px 42px;
+}
+
+.form__label
+{
+    font-size: 20px;
+    color: #333;
+    line-height: 1.6; 
+    margin: 0 0 0 0; 
+    width: 100%;    
+}
+
+.form__label_radio
+{
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+    margin: 0 0 0 31px;      
+}
+
+.form__error{
+    font-size: 12px;
+}
+
+.form__alert,
+.form__error
+{
+    color: #EE5252;
+}
+
+.form__input_text__error,
+.form__input_email__error,
+.form__textarea__error
+{
+    border-color:#EE5252;  
+}
+
+.form__send_success
+{
+    margin: 9px 0 0 40px;
+    width: 190px;
+    height: 32px;
+}
+
+.form__send_success__img
+{
+    float: left;
+    width: 27px;
+    height: 28px;
+}
+
+.form__send_success__msg
+{
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 14px;
+    color: #2E2B2B;
+    font-weight: 400;
+    vertical-align: top;
+    margin: 0 0 0 34px;
+}

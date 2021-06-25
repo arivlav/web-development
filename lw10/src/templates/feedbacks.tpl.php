@@ -43,7 +43,7 @@ $male = [
           <table>
             <tr>
               <td><b>Имя:</b></td>
-              <td><?php echo $file['content'][0];?></td>
+              <td><?php echo $file['content'];?></td>
             </tr>
             <tr>
               <td><b>email:</b></td>
@@ -55,7 +55,7 @@ $male = [
             </tr>
             <tr>
               <td><b>Пол:</b></td>
-              <td><?php if ($file['content'][3]) echo $male[$file['content'][3]];?></td>
+              <td><?php echo $male[$file['content'][3]];?></td>
             </tr>  
             <tr>
               <td><b>Сообщение:</b></td>

@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="description" content="South Park" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>South Park</title>
+  <link href="css/style.css" rel="stylesheet" />
+  <script src="js/canvas.js" defer></script>
+</head>
+<body>
+  <div class="row">
+    <h1>South Park</h1>
+  </div>
+  <div class="row">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="500" height="450">
+      <!--ноги-->
+      <path d="M166,340 180,375 410,375 420,340" fill="#894129" />
+      <!--ступни-->
+      <path d="M170,375 Q260,359 300,375 Q360,359 425,375" fill="#302a3e"/>
+      <!--туловище-->
+      <path d="M220,180 Q100,255 150,300 L156,345 Q250,380 330,350 Q450,380 450,300 Q480,250 400,190" fill="#fe2041"/>
+      <path d="M300,226 Q320,275 310,366" stroke-width="1" stroke="#894129" fill="none"/>
+      <!--пуговицы-->
+      <line stroke-width="4" stroke="#000" x1="292" x2="294" y1="236" y2="246"/>
+      <line stroke-width="4" stroke="#000" x1="297" x2="298" y1="280" y2="290"/>
+      <line stroke-width="4" stroke="#000" x1="298" x2="298" y1="325" y2="335"/>
+      <!--кисти рук-->
+      <path d="M137,260 Q110,280 140,300 L185,295 Q195,285 185,275 Q155,255 155,270z" fill="#ffdc18"/>
+      <path d="M443,260 Q485,270 450,300 Q435,304 420,300 Q415,298 400,280 Q413,260 416,270" fill="#ffdc18"/>
+      <!--голова-->
+      <ellipse cx="300" cy="150" rx="130" ry="76" fill="#ffefc5" />
+      <path d="M170,150 C185,40 415,40 430,150" fill="#00b9c5"/>
+      <path d="M175,150 C250,110 350,110 425,150" stroke-width="10" stroke="#fbe024" fill="#ffefc5" stroke-linecap="round"/>
+      <!--глаза-->
+      <ellipse stroke="#000" fill="#fff" fill="none" stroke-width="1" cx="270" cy="151" rx="21" ry="26" transform="rotate(35, 276, 160)"/>
+      <ellipse stroke="#000" fill="#fff" fill="none" stroke-width="1" cx="330" cy="151" rx="21" ry="26" transform="rotate(-35, 324, 160)"/>
+      <circle fill="#000" cx="280" cy="151" r="4"/>
+      <circle fill="#000" cx="320" cy="151" r="4"/>
+      <!--рот и зубы-->
+      <polygon points="275 189, 295 179, 330 184, 320 204, 295 203"/>
+      <line stroke-width="5" stroke="#fff" x1="290" x2="296" y1="186" y2="186"/>
+      <line stroke-width="5" stroke="#fff" x1="300" x2="309" y1="186" y2="187"/>
+      <line stroke-width="5" stroke="#fff" x1="314" x2="323" y1="187" y2="188"/>
+      <!--подбородок-->
+      <polyline points="285 205, 300 210, 335 206" fill="none" stroke-width="1" stroke="#000" />
+      <!--шея-->
+      <path d="M210,195 C260,230 370,225 390,196" fill="none" stroke-width="1" stroke="#000"/>
+      <!--пампон-->
+      <path d="M265,70 Q300,58 325,72 Q305,78 300,74" fill="#ffdc18"/>
+    </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="500" height="450">
+      <!--туловище-->
+      <rect x="245" y="230" width="110" height="175" fill="#ff6c00"/>
+      <!--ступни-->
+      <line x1="230" y1="405" x2="370" y2="405" stroke-width="8" stroke="#000"/>
+      <!--капюшон-->
+      <circle fill="#ff6c00" cx="300" cy="150" r="100" stroke-width="1" stroke="#000"/>
+      <ellipse stroke="#000" stroke-width="1" fill="transparent" cx="300" cy="160" rx="75" ry="68"/>
+      <circle fill="#fedba8" cx="300" cy="150" r="57"/>
+      <!--глаза-->
+      <ellipse stroke="#000" fill="#fff" fill="transparent" stroke-width="1" cx="276" cy="160" rx="21" ry="26" transform="rotate(35, 276, 160)"/>
+      <ellipse stroke="#000" fill="#fff" fill="transparent" stroke-width="1" cx="324" cy="160" rx="21" ry="26" transform="rotate(-35, 324, 160)"/>
+      <circle fill="#000" cx="285" cy="160" r="4"/>
+      <circle fill="#000" cx="315" cy="160" r="4"/>
+      <!--края капюшона-->
+      <polygon fill="#773b13" points="300 92, 315 93, 330 98, 343 108, 355 125, 359 145, 359 165, 357 185, 350 195, 340 205, 
+        300 215, 330 185, 335 160, 330 140, 328 125" />
+      <polygon fill="#773b13" points="300 92, 286 93, 270 98, 257 108, 245 125, 240 145, 241 165, 243 185, 250 195, 260 205, 
+        300 215, 270 185, 265 160, 270 140, 272 125" />
+      <path fill="#ff6c00" d="M250 235 Q 160 300 250 380"/>
+      <path fill="#ff6c00" d="M350 235 Q 440 300 350 380"/>
+      <!--шнурок капюшона-->
+      <path fill="#ff6c00" stroke-width="1" stroke="#000" d="M300 215 Q 305 222 310 240"/>
+      <!--руки-->
+      <line x1="250" y1="285" x2="230" y2="335" stroke-width="2" stroke="#000"/>
+      <line x1="300" y1="250" x2="300" y2="355" stroke-width="2" stroke="#000"/>
+      <line x1="350" y1="285" x2="370" y2="335" stroke-width="2" stroke="#000"/> 
+      <!--кисти рук-->
+      <circle fill="#773b13" cx="220" cy="350" r="27"/>
+      <circle fill="#773b13" cx="380" cy="350" r="27"/>  
+    </svg>
+  </div>
+  <div class="row">
+    <canvas id="canvas1" width="500" height="300"></canvas>
+    <canvas id="canvas2" width="500" height="300"></canvas>
+  </div>
+</body>
